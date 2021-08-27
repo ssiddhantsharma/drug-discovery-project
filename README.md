@@ -77,3 +77,37 @@ The 3 best docked phytocompounds in the sdf format were uploaded individually to
 
 We can also look at: first 1000 molecules in phytolibraries of Indian Medicinal Plants (https://cb.imsc.res.in/imppat/home)  and Traditional Chinese (https://tcmsp-e.com/)
 
+The main methods of viral evolution include point mutations, gene duplication, and viral recombination (Nasir et. al 2012).
+1. I can do computational saturation mutagenesis of the viral protein using MutateX (https://github.com/ELELAB/mutatex /https://www.biorxiv.org/content/10.1101/824938v1). MutateX will tell me which point mutation will destabilize the protein structure the most. It will also give me many ways to visualise the data: heatmaps, histograms and a lot of fancy stuff.
+However, MutateX will not tell me how protein-ligand interaction will be affected by the mutation. For that I can use mCSM-lig (http://biosig.unimelb.edu.au/mcsm_lig/prediction).
+This entire process will be very computationally costly (running MutateX itself might take >24 hours)
+and I'm still unclear about many steps in the process.
+2.  There is significant reason to suspect that recombination could have given rise to the current Covid-19 pandemic (Patino-Galino et. al 2019). Since we're working on a relatively new virus, it'll be insightful to check the pandemic causing potential of Lujo & Lassa virus using Recombination Detection Program (http://web.cbio.uct.ac.za/~darren/rdp.html)
+
+
+
+# EMON
+please have a look... :eyes: https://github.com/aakilkhanemon/drug-discovery-project/tree/main/data
+ I have attached there target viral protein 3D structure of Lujo and Lassa as PDB format,  control ligand or drugs such as Ribavirin, Favipiravir, Acetylcysteine, Atorvastatin as SDF format (2D & 3D structure),  similar compounds multiple export file as SDF and CSV format of that 4 main ligands or drug using ambinter server (used default of 80% similarity search)                                                                                                                                                                                                                                                                                                                                          6gh8_Lujo_viral_receptor.pdb
+6p91_Lassa_viral_receptor.pdb
+6p95_Lassa_viral_receptor.pdb
+(RSCB: https://www.rcsb.org/)
+
+2D & 3D Conformer_CID_37542_(Ribavirin).sdf
+2D & 3D Conformer_CID_492405_(Favipiravir).sdf
+2D & 3D Conformer_CID_12035_(Acetylcysteine).sdf
+2D & 3D Conformer_CID_60823_(Atorvastatin).sdf
+(Pubchem: https://pubchem.ncbi.nlm.nih.gov/ )
+
+multiple_export_(Ribavirin)_similar_ambinter.sdf
+multiple_export_(Favipiravir)_similar_ambinter.sdf
+multiple_export_(Acetylcysteine)_similar_arbinter.sdf
+multiple_export_(Atorvastatin)_similar_ambinter.sdf
+(Ambinter: http://www.ambinter.com/)
+
+export_(Acetylcysteine)_similar_arbinter.csv
+export_(Atorvastatin)_similar_ambinter.csv
+export_(Ribavirin)_similar_ambinter.csv
+export_(Favipiravir)_similar_ambinter.csv
+(Ambinter: http://www.ambinter.com/) 
+
