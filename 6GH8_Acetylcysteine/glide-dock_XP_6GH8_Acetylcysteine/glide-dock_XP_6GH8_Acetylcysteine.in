@@ -1,0 +1,5 @@
+GRIDFILE   C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine\glide-grid_6GH8\glide-grid_6GH8.zip
+LIGANDFILE   glide-dock_XP_6GH8_Acetylcysteine.maegz
+POSTDOCK_XP_DELE   0.5
+PRECISION   XP
+WRITE_XP_DESC   True

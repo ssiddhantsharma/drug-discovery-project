@@ -1,0 +1,517 @@
+"Stars","Title","Entry ID","Entry Name","Date Added","Date Modified","PUBCHEM_COMPOUND_CID","PUBCHEM_CONFORMER_RMSD","PUBCHEM_CONFORMER_DIVERSEORDER","PUBCHEM_MMFF94_PARTIAL_CHARGES","PUBCHEM_EFFECTIVE_ROTOR_COUNT","PUBCHEM_PHARMACOPHORE_FEATURES","PUBCHEM_HEAVY_ATOM_COUNT","PUBCHEM_ATOM_DEF_STEREO_COUNT","PUBCHEM_ATOM_UDEF_STEREO_COUNT","PUBCHEM_BOND_DEF_STEREO_COUNT","PUBCHEM_BOND_UDEF_STEREO_COUNT","PUBCHEM_ISOTOPIC_ATOM_COUNT","PUBCHEM_COMPONENT_COUNT","PUBCHEM_CACTVS_TAUTO_COUNT","PUBCHEM_CONFORMER_ID","PUBCHEM_MMFF94_ENERGY","PUBCHEM_FEATURE_SELFOVERLAP","PUBCHEM_SHAPE_FINGERPRINT","PUBCHEM_SHAPE_MULTIPOLES","PUBCHEM_SHAPE_SELFOVERLAP","PUBCHEM_SHAPE_VOLUME","PUBCHEM_COORDINATE_TYPE","chiral flag","version","ct enhanced stereo status","Source Path","Source File","Source File Index","source file","source file index","mmshare version","input","cmdline","Ionization Penalty","Ionization Penalty Charging","Ionization Penalty Neutral","State Penalty","Charging Adjusted Penalty","Tot Q","Tot abs Q","flags","Force Field","Energy","Chiralities Consistent","Variant","Job Name","PDB TITLE","PDB ID","PDB CRYST1 a","PDB CRYST1 b","PDB CRYST1 c","PDB CRYST1 alpha","PDB CRYST1 beta","PDB CRYST1 gamma","PDB CRYST1 Space Group","PDB CRYST1 z","PDB CLASSIFICATION","PDB DEPOSITION DATE","PDB format version","PDB R","PDB Rfree","PDB RESOLUTION","PDB EXPDTA","PDB EXPDTA TEMPERATURE","PDB EXPDTA PH","PDB REMARK 350 Biomolecule 1 Transform 1 Chains","PDB REMARK 350 Biomolecule 1 Transform 1 Matrix 1","PDB REMARK 350 Biomolecule 2 Transform 1 Chains","PDB REMARK 350 Biomolecule 2 Transform 1 Matrix 1","entry id backup","prepared","prepared with version","assigned bond orders","added hydrogens","treated metals","created disulfur","converted selenomethionines","deleted far waters","EXECUTE FUNCTION Input Structure Hash","capped termini","het states","ran protassign","Potential Energy-OPLS3e","RMS Derivative-OPLS3e","Max Derivative-OPLS3e","Stretch Energy-OPLS3e","Bend Energy-OPLS3e","LJ-14 Energy-OPLS3e","El-14 Energy-OPLS3e","Van der Waals Energy-OPLS3e","Electrostatic Energy-OPLS3e","Dihedral Energy-OPLS3e","target temperature","ran impref","SiteScore","size","Dscore","volume","exposure","enclosure","contact","phobic","philic","balance","don/acc","residues","residues asl","grid version","gridbox xcent","gridbox ycent","gridbox zcent","gridbox xrange","gridbox yrange","gridbox zrange","gridbox ligxrange","gridbox ligyrange","gridbox ligzrange","grid type","receptor","glide gridfile","glide lignum","glide rotatable bonds","docking score","glide ligand efficiency","glide ligand efficiency sa","glide ligand efficiency ln","XP GScore","glide gscore","glide evdw","glide ecoul","glide energy","glide einternal","glide emodel","XP HBond","XP PhobEn","XP PhobEnHB","XP LowMW","XP RotPenal","XP LipophilicEvdW","XP PhobEnPairHB","XP Electro","XP Sitemap","XP Penalties","XP PiStack","XP HBPenal","XP ExposPenal","XP PiCat","XP ClBr","XP Zpotr","glide confnum","glide posenum","glide eff state penalty","XP PoseRank","Mark"
+,"Atorvastatin","1","Atorvastatin.1","2021-08-28 23:50:59","2021-08-28 23:51:36",60823,1.200,"2
+20
+14
+10
+15
+23
+25
+5
+3
+18
+21
+24
+6
+19
+7
+9
+13
+4
+11
+16
+17
+8
+12
+22
+1","55
+1 -0.19
+10 0.26
+11 -0.2
+12 0.18
+14 -0.09
+15 -0.05
+16 0.28
+18 0.05
+2 -0.68
+21 0.05
+22 0.28
+23 0.72
+24 0.06
+25 -0.15
+26 -0.15
+27 -0.15
+28 -0.15
+29 -0.15
+3 -0.68
+30 -0.15
+31 -0.15
+32 -0.15
+33 0.19
+34 0.12
+35 0.66
+36 -0.15
+37 -0.15
+38 -0.15
+39 -0.15
+4 -0.57
+40 -0.15
+41 -0.15
+5 -0.65
+59 0.15
+6 -0.57
+60 0.15
+61 0.4
+62 0.15
+63 0.15
+64 0.37
+65 0.15
+66 0.15
+67 0.4
+68 0.15
+69 0.15
+7 0.05
+70 0.15
+71 0.15
+72 0.15
+73 0.5
+74 0.15
+75 0.15
+76 0.15
+8 -0.55
+9 -0.33",13,"15
+1 2 acceptor
+1 2 donor
+1 3 acceptor
+1 3 donor
+1 4 acceptor
+1 5 acceptor
+1 6 acceptor
+1 7 cation
+1 8 donor
+3 12 19 20 hydrophobe
+3 5 6 35 anion
+5 7 9 11 14 15 rings
+6 18 25 26 29 30 33 rings
+6 21 27 28 31 32 36 rings
+6 34 37 38 39 40 41 rings",41,2,0,0,0,0,1,2,"0000ED9700000002",106.094,76.181,"10675989 125 17823678923709516393
+11513181 2 18336258037712942813
+11607047 141 17988369260376404795
+13690498 29 18336265639546249471
+13692115 46 17840606802577324413
+13911987 19 17537733092276708616
+14068700 675 18262498335044700595
+14556957 393 17749111037156787151
+19311894 1 18048864204730262433
+20028762 73 17040936823487597906
+20775438 99 18049703411376278827
+21703447 108 18336815494086928168
+24771750 20 16594497676908946909
+4066623 53 18188193399406037989
+44344687 77 18263379129921938643
+6700243 42 18129098918706139022
+70251023 43 18262219080882664851","797.18
+14.84
+7.09
+3.19
+2.29
+6.64
+0.69
+-19.66
+11.97
+-2.93
+3.16
+-2.27
+-3.09
+2.5",1710.666,442.600,"2
+5
+10",true,0,0,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","Atorvastatin.sdf",1,"",,,"","",,,,,,,,,"",,,"","","","",,,,,,,"",,"","","",,,,"",,,"","","","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Atorvastatin","2","Atorvastatin.1","2021-08-28 23:51:36","2021-08-28 23:51:36",60823,1.200,"2
+20
+14
+10
+15
+23
+25
+5
+3
+18
+21
+24
+6
+19
+7
+9
+13
+4
+11
+16
+17
+8
+12
+22
+1","55
+1 -0.19
+10 0.26
+11 -0.2
+12 0.18
+14 -0.09
+15 -0.05
+16 0.28
+18 0.05
+2 -0.68
+21 0.05
+22 0.28
+23 0.72
+24 0.06
+25 -0.15
+26 -0.15
+27 -0.15
+28 -0.15
+29 -0.15
+3 -0.68
+30 -0.15
+31 -0.15
+32 -0.15
+33 0.19
+34 0.12
+35 0.66
+36 -0.15
+37 -0.15
+38 -0.15
+39 -0.15
+4 -0.57
+40 -0.15
+41 -0.15
+5 -0.65
+59 0.15
+6 -0.57
+60 0.15
+61 0.4
+62 0.15
+63 0.15
+64 0.37
+65 0.15
+66 0.15
+67 0.4
+68 0.15
+69 0.15
+7 0.05
+70 0.15
+71 0.15
+72 0.15
+73 0.5
+74 0.15
+75 0.15
+76 0.15
+8 -0.55
+9 -0.33",13,"15
+1 2 acceptor
+1 2 donor
+1 3 acceptor
+1 3 donor
+1 4 acceptor
+1 5 acceptor
+1 6 acceptor
+1 7 cation
+1 8 donor
+3 12 19 20 hydrophobe
+3 5 6 35 anion
+5 7 9 11 14 15 rings
+6 18 25 26 29 30 33 rings
+6 21 27 28 31 32 36 rings
+6 34 37 38 39 40 41 rings",41,2,0,0,0,0,1,2,"0000ED9700000002",106.094,76.181,"10675989 125 17823678923709516393
+11513181 2 18336258037712942813
+11607047 141 17988369260376404795
+13690498 29 18336265639546249471
+13692115 46 17840606802577324413
+13911987 19 17537733092276708616
+14068700 675 18262498335044700595
+14556957 393 17749111037156787151
+19311894 1 18048864204730262433
+20028762 73 17040936823487597906
+20775438 99 18049703411376278827
+21703447 108 18336815494086928168
+24771750 20 16594497676908946909
+4066623 53 18188193399406037989
+44344687 77 18263379129921938643
+6700243 42 18129098918706139022
+70251023 43 18262219080882664851","797.18
+14.84
+7.09
+3.19
+2.29
+6.64
+0.69
+-19.66
+11.97
+-2.93
+3.16
+-2.27
+-3.09
+2.5",1710.666,442.600,"2
+5
+10",true,0,2,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","Atorvastatin.sdf",1,"ligprep_1.maegz",1,51139,"W2NIXTFbY0hdYyhGKVtjSF1bY0hdYzEtYzJjKC1jM1tjSF1bY0hdW2NIXVtjSF1bY0hdMyljKEMoPU8pW05IXWM0W2NIXVtjSF1bY0hdW2NIXVtjSF00KWMoW0NIXShbQ0gzXSlbQ0gzXSluMltDSDJdW0NIMl1bQ0BASF0oW09IXSlbQ0gyXVtDQEBIXShbT0hdKVtDSDJdQyg9TylbT0hd","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",0.0031,0.0031,0.0000,0.0022,0.005,-1,1,0,"OPLS3e",42.097,true,"60823-1","ligprep_1","","",,,,,,,"",,"","","",,,,"",,,"","","","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8","3","6gh8.1","2021-08-28 23:52:56","2021-08-28 23:52:56",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","6gh8.pdb",1,"",,,"","",,,,,,,,,"",,,"","","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - preprocessed","4","6gh8.1","2021-08-28 23:53:56","2021-08-29 00:00:57",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","6gh8.pdb",1,"",,,"","",,,,,,,,,"",,,"","","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","3",true,"2020-3",true,true,true,true,true,true,"d3f4195a5e990981a890bbb0569983c98d5ff631ff9bba426caa8d2a",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - hbond-opt","5","6gh8.1","2021-08-29 00:03:28","2021-08-29 00:03:28",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","6gh8.pdb",1,"",,,"","",,,,,,,,,"",,,"","","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","4",true,"2020-3",true,true,true,true,true,true,"d3f4195a5e990981a890bbb0569983c98d5ff631ff9bba426caa8d2a",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - removed waters","6","6gh8.1","2021-08-29 00:03:42","2021-08-29 00:03:44",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","6gh8.pdb",1,"",,,"","",,,,,,,,,"",,,"","","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","5",true,"2020-3",true,true,true,true,true,true,"d3f4195a5e990981a890bbb0569983c98d5ff631ff9bba426caa8d2a",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - minimized","7","6gh8.1","2021-08-29 00:06:38","2021-08-29 00:06:38",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","6gh8.pdb",1,"",,,"","",,,,,,,,,"",,,"","","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","6",true,"2020-3",true,true,true,true,true,true,"d3f4195a5e990981a890bbb0569983c98d5ff631ff9bba426caa8d2a",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_1","8","sitemap_1_site_1","2021-08-29 00:07:44","2021-08-29 00:07:44",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"","",,"",,,"","",,,,,,,,,"",,,"","sitemap_1","","",,,,,,,"",,"","","",,,,"",,,"","","","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.793,45,0.798,134.113,0.656,0.641,0.839,1.476,0.666,2.217,0.652,"Chain B: 90,92,93,95,96,97,99,122,126,129,130,133,152,173,174,189,190","(chain.name B & (res.num 90 | res.num 92 | res.num 93 | res.num 95 | res.num 96 | res.num 97 | res.num 99 | res.num 122 | res.num 126 | res.num 129 | res.num 130 | res.num 133 | res.num 152 | res.num 173 | res.num 174 | res.num 189 | res.num 190))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_3","9","sitemap_1_site_3","2021-08-29 00:07:44","2021-08-29 00:07:44",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"","",,"",,,"","",,,,,,,,,"",,,"","sitemap_1","","",,,,,,,"",,"","","",,,,"",,,"","","","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.646,34,0.499,70.315,0.590,0.625,0.825,0.125,1.302,0.096,0.222,"Chain B: 109,110,111,112,115,145,147,201; Chain C: 84,85,127,128","(chain.name B & (res.num 109 | res.num 110 | res.num 111 | res.num 112 | res.num 115 | res.num 145 | res.num 147 | res.num 201)) OR (chain.name C & (res.num 84 | res.num 85 | res.num 127 | res.num 128))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_2","10","sitemap_1_site_2","2021-08-29 00:07:44","2021-08-29 00:07:44",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"","",,"",,,"","",,,,,,,,,"",,,"","sitemap_1","","",,,,,,,"",,"","","",,,,"",,,"","","","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.643,35,0.520,73.745,0.598,0.612,0.823,0.194,1.235,0.157,0.408,"Chain A: 84,85,128; Chain D: 109,110,112,115,147,201","(chain.name A & (res.num 84 | res.num 85 | res.num 128)) OR (chain.name D & (res.num 109 | res.num 110 | res.num 112 | res.num 115 | res.num 147 | res.num 201))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_4","11","sitemap_1_site_4","2021-08-29 00:07:45","2021-08-29 00:07:45",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"","",,"",,,"","",,,,,,,,,"",,,"","sitemap_1","","",,,,,,,"",,"","","",,,,"",,,"","","","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.527,21,0.467,51.450,0.734,0.538,0.635,0.105,0.878,0.119,0.528,"Chain B: 105,107,108,109,142,144; Chain C: 81,82,84,85","(chain.name B & (res.num 105 | res.num 107 | res.num 108 | res.num 109 | res.num 142 | res.num 144)) OR (chain.name C & (res.num 81 | res.num 82 | res.num 84 | res.num 85))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_protein","12","6gh8.1","2021-08-29 00:07:45","2021-08-29 00:07:45",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","6gh8.pdb",1,"",,,"","",,,,,,,,,"",,,"","sitemap_1","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","6",true,"2020-3",true,true,true,true,true,true,"d3f4195a5e990981a890bbb0569983c98d5ff631ff9bba426caa8d2a",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_protein","13","6gh8.1","2021-08-29 00:17:34","2021-08-29 00:19:45",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","6gh8.pdb",1,"",,,"","",,,,,,,,,"",,,"","glide-dock_XP_6gh8_Atorvastatin","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","6",true,"2020-3",true,true,true,true,true,true,"d3f4195a5e990981a890bbb0569983c98d5ff631ff9bba426caa8d2a",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",88139,18.815,18.025,79.875,26.290,26.290,26.290,10.000,10.000,10.000,"glide",true,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Atorvastatin","14","Atorvastatin.1","2021-08-29 00:17:34","2021-08-29 00:19:45",60823,1.200,"2
+20
+14
+10
+15
+23
+25
+5
+3
+18
+21
+24
+6
+19
+7
+9
+13
+4
+11
+16
+17
+8
+12
+22
+1","55
+1 -0.19
+10 0.26
+11 -0.2
+12 0.18
+14 -0.09
+15 -0.05
+16 0.28
+18 0.05
+2 -0.68
+21 0.05
+22 0.28
+23 0.72
+24 0.06
+25 -0.15
+26 -0.15
+27 -0.15
+28 -0.15
+29 -0.15
+3 -0.68
+30 -0.15
+31 -0.15
+32 -0.15
+33 0.19
+34 0.12
+35 0.66
+36 -0.15
+37 -0.15
+38 -0.15
+39 -0.15
+4 -0.57
+40 -0.15
+41 -0.15
+5 -0.65
+59 0.15
+6 -0.57
+60 0.15
+61 0.4
+62 0.15
+63 0.15
+64 0.37
+65 0.15
+66 0.15
+67 0.4
+68 0.15
+69 0.15
+7 0.05
+70 0.15
+71 0.15
+72 0.15
+73 0.5
+74 0.15
+75 0.15
+76 0.15
+8 -0.55
+9 -0.33",13,"15
+1 2 acceptor
+1 2 donor
+1 3 acceptor
+1 3 donor
+1 4 acceptor
+1 5 acceptor
+1 6 acceptor
+1 7 cation
+1 8 donor
+3 12 19 20 hydrophobe
+3 5 6 35 anion
+5 7 9 11 14 15 rings
+6 18 25 26 29 30 33 rings
+6 21 27 28 31 32 36 rings
+6 34 37 38 39 40 41 rings",41,2,0,0,0,0,1,2,"0000ED9700000002",106.094,76.181,"10675989 125 17823678923709516393
+11513181 2 18336258037712942813
+11607047 141 17988369260376404795
+13690498 29 18336265639546249471
+13692115 46 17840606802577324413
+13911987 19 17537733092276708616
+14068700 675 18262498335044700595
+14556957 393 17749111037156787151
+19311894 1 18048864204730262433
+20028762 73 17040936823487597906
+20775438 99 18049703411376278827
+21703447 108 18336815494086928168
+24771750 20 16594497676908946909
+4066623 53 18188193399406037989
+44344687 77 18263379129921938643
+6700243 42 18129098918706139022
+70251023 43 18262219080882664851","797.18
+14.84
+7.09
+3.19
+2.29
+6.64
+0.69
+-19.66
+11.97
+-2.93
+3.16
+-2.27
+-3.09
+2.5",1710.666,442.600,"2
+5
+10",true,0,2,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","Atorvastatin.sdf",1,"ligprep_1.maegz",1,51139,"W2NIXTFbY0hdYyhGKVtjSF1bY0hdYzEtYzJjKC1jM1tjSF1bY0hdW2NIXVtjSF1bY0hdMyljKEMoPU8pW05IXWM0W2NIXVtjSF1bY0hdW2NIXVtjSF00KWMoW0NIXShbQ0gzXSlbQ0gzXSluMltDSDJdW0NIMl1bQ0BASF0oW09IXSlbQ0gyXVtDQEBIXShbT0hdKVtDSDJdQyg9TylbT0hd","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",0.0031,0.0031,0.0000,0.0022,0.005,-1,1,0,"OPLS3e",42.097,true,"60823-1","glide-dock_XP_6gh8_Atorvastatin","","",,,,,,,"",,"","","",,,,"",,,"","","","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"glide-grid_6gh8",1,15,-4.221,-0.103,-0.355,-0.895,-4.223,-4.223,-31.765,-8.422,-40.187,7.458,-50.954,-1.378,-0.571,0.000,0.000,0.282,-2.937,0.000,-0.632,0.000,0.723,0.000,0.000,0.290,0.000,0.000,0.000,1,38,0.002,1,
+,"xp_rcpt_frag_sitemap_1_protein_51026","15","xp_rcpt_frag_sitemap_1_protein_51026","2021-08-29 00:19:43","2021-08-29 00:19:45",,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","6gh8.pdb",1,"",,,"","",,,,,,,,,"",,,"","sitemap_1","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","6",true,"2020-3",true,true,true,true,true,true,"d3f4195a5e990981a890bbb0569983c98d5ff631ff9bba426caa8d2a",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",88139,18.815,18.025,79.875,26.290,26.290,26.290,10.000,10.000,10.000,"glide",true,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Atorvastatin","17","XPVIS_0_single","2021-08-29 00:19:45","2021-08-29 00:19:45",60823,1.200,"2
+20
+14
+10
+15
+23
+25
+5
+3
+18
+21
+24
+6
+19
+7
+9
+13
+4
+11
+16
+17
+8
+12
+22
+1","55
+1 -0.19
+10 0.26
+11 -0.2
+12 0.18
+14 -0.09
+15 -0.05
+16 0.28
+18 0.05
+2 -0.68
+21 0.05
+22 0.28
+23 0.72
+24 0.06
+25 -0.15
+26 -0.15
+27 -0.15
+28 -0.15
+29 -0.15
+3 -0.68
+30 -0.15
+31 -0.15
+32 -0.15
+33 0.19
+34 0.12
+35 0.66
+36 -0.15
+37 -0.15
+38 -0.15
+39 -0.15
+4 -0.57
+40 -0.15
+41 -0.15
+5 -0.65
+59 0.15
+6 -0.57
+60 0.15
+61 0.4
+62 0.15
+63 0.15
+64 0.37
+65 0.15
+66 0.15
+67 0.4
+68 0.15
+69 0.15
+7 0.05
+70 0.15
+71 0.15
+72 0.15
+73 0.5
+74 0.15
+75 0.15
+76 0.15
+8 -0.55
+9 -0.33",13,"15
+1 2 acceptor
+1 2 donor
+1 3 acceptor
+1 3 donor
+1 4 acceptor
+1 5 acceptor
+1 6 acceptor
+1 7 cation
+1 8 donor
+3 12 19 20 hydrophobe
+3 5 6 35 anion
+5 7 9 11 14 15 rings
+6 18 25 26 29 30 33 rings
+6 21 27 28 31 32 36 rings
+6 34 37 38 39 40 41 rings",41,2,0,0,0,0,1,2,"0000ED9700000002",106.094,76.181,"10675989 125 17823678923709516393
+11513181 2 18336258037712942813
+11607047 141 17988369260376404795
+13690498 29 18336265639546249471
+13692115 46 17840606802577324413
+13911987 19 17537733092276708616
+14068700 675 18262498335044700595
+14556957 393 17749111037156787151
+19311894 1 18048864204730262433
+20028762 73 17040936823487597906
+20775438 99 18049703411376278827
+21703447 108 18336815494086928168
+24771750 20 16594497676908946909
+4066623 53 18188193399406037989
+44344687 77 18263379129921938643
+6700243 42 18129098918706139022
+70251023 43 18262219080882664851","797.18
+14.84
+7.09
+3.19
+2.29
+6.64
+0.69
+-19.66
+11.97
+-2.93
+3.16
+-2.27
+-3.09
+2.5",1710.666,442.600,"2
+5
+10",true,0,2,"C:\Users\hp\Desktop\Hackbio\6GH8_Atorvastatin","Atorvastatin.sdf",1,"ligprep_1.maegz",1,51139,"W2NIXTFbY0hdYyhGKVtjSF1bY0hdYzEtYzJjKC1jM1tjSF1bY0hdW2NIXVtjSF1bY0hdMyljKEMoPU8pW05IXWM0W2NIXVtjSF1bY0hdW2NIXVtjSF00KWMoW0NIXShbQ0gzXSlbQ0gzXSluMltDSDJdW0NIMl1bQ0BASF0oW09IXSlbQ0gyXVtDQEBIXShbT0hdKVtDSDJdQyg9TylbT0hd","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",0.0031,0.0031,0.0000,0.0022,0.005,-1,1,0,"OPLS3e",42.097,true,"60823-1","ligprep_1","","",,,,,,,"",,"","","",,,,"",,,"","","","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"glide-grid_6gh8",1,15,-4.221,-0.103,-0.355,-0.895,-4.223,-4.223,-31.765,-8.422,-40.187,7.458,-50.954,-1.378,-0.571,0.000,0.000,0.282,-2.937,0.000,-0.632,0.000,0.723,0.000,0.000,0.290,0.000,0.000,0.000,1,38,0.002,1,
