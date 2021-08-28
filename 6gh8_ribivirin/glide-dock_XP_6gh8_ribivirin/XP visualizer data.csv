@@ -1,0 +1,2 @@
+ligand,GScore,DockScore,LipophilicEvdW,PhobEn,PhobEnHB,PhobEnPairHB,HBond,Electro,Sitemap,PiCat,ClBr,LowMW,Penalties,HBPenal,ExposPenal,RotPenal,EpikStatePenalty,Zpotr,Similarity,Activity
+Ribivirin,-3.73,-3.73,-0.75,0.00,0.00,0.00,-1.44,-0.86,-0.62,0.00,0.00,-0.50,0.00,0.00,0.20,0.25,0.00,0.00,1.00,--
