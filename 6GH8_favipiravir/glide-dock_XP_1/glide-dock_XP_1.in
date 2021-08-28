@@ -1,0 +1,5 @@
+GRIDFILE   C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir\glide-grid_6gh8\glide-grid_6gh8_2.zip
+LIGANDFILE   glide-dock_XP_1.maegz
+POSTDOCK_XP_DELE   0.5
+PRECISION   XP
+WRITE_XP_DESC   True

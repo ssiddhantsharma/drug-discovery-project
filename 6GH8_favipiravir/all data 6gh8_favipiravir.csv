@@ -1,0 +1,301 @@
+"Stars","Title","Entry ID","Entry Name","Date Added","Date Modified","PDB TITLE","PDB ID","PDB CRYST1 a","PDB CRYST1 b","PDB CRYST1 c","PDB CRYST1 alpha","PDB CRYST1 beta","PDB CRYST1 gamma","PDB CRYST1 Space Group","PDB CRYST1 z","PDB CLASSIFICATION","PDB DEPOSITION DATE","PDB format version","PDB R","PDB Rfree","PDB RESOLUTION","PDB EXPDTA","PDB EXPDTA TEMPERATURE","PDB EXPDTA PH","PDB REMARK 350 Biomolecule 1 Transform 1 Chains","PDB REMARK 350 Biomolecule 1 Transform 1 Matrix 1","PDB REMARK 350 Biomolecule 2 Transform 1 Chains","PDB REMARK 350 Biomolecule 2 Transform 1 Matrix 1","Source Path","Source File","Source File Index","PUBCHEM_COMPOUND_CID","PUBCHEM_CONFORMER_RMSD","PUBCHEM_CONFORMER_DIVERSEORDER","PUBCHEM_MMFF94_PARTIAL_CHARGES","PUBCHEM_EFFECTIVE_ROTOR_COUNT","PUBCHEM_PHARMACOPHORE_FEATURES","PUBCHEM_HEAVY_ATOM_COUNT","PUBCHEM_ATOM_DEF_STEREO_COUNT","PUBCHEM_ATOM_UDEF_STEREO_COUNT","PUBCHEM_BOND_DEF_STEREO_COUNT","PUBCHEM_BOND_UDEF_STEREO_COUNT","PUBCHEM_ISOTOPIC_ATOM_COUNT","PUBCHEM_COMPONENT_COUNT","PUBCHEM_CACTVS_TAUTO_COUNT","PUBCHEM_CONFORMER_ID","PUBCHEM_MMFF94_ENERGY","PUBCHEM_FEATURE_SELFOVERLAP","PUBCHEM_SHAPE_FINGERPRINT","PUBCHEM_SHAPE_MULTIPOLES","PUBCHEM_SHAPE_SELFOVERLAP","PUBCHEM_SHAPE_VOLUME","PUBCHEM_COORDINATE_TYPE","chiral flag","version","ct enhanced stereo status","source file","source file index","mmshare version","input","cmdline","tautomer probability","Ionization Penalty","Ionization Penalty Charging","Ionization Penalty Neutral","State Penalty","Charging Adjusted Penalty","Tot Q","Tot abs Q","flags","Force Field","Energy","Chiralities Consistent","Variant","Job Name","entry id backup","prepared","prepared with version","assigned bond orders","added hydrogens","treated metals","created disulfur","converted selenomethionines","deleted far waters","EXECUTE FUNCTION Input Structure Hash","capped termini","het states","ran protassign","Potential Energy-OPLS3e","RMS Derivative-OPLS3e","Max Derivative-OPLS3e","Stretch Energy-OPLS3e","Bend Energy-OPLS3e","LJ-14 Energy-OPLS3e","El-14 Energy-OPLS3e","Van der Waals Energy-OPLS3e","Electrostatic Energy-OPLS3e","Dihedral Energy-OPLS3e","target temperature","ran impref","SiteScore","size","Dscore","volume","exposure","enclosure","contact","phobic","philic","balance","don/acc","residues","residues asl","grid version","gridbox xcent","gridbox ycent","gridbox zcent","gridbox xrange","gridbox yrange","gridbox zrange","gridbox ligxrange","gridbox ligyrange","gridbox ligzrange","grid type","receptor","glide gridfile","glide lignum","glide rotatable bonds","docking score","glide ligand efficiency","glide ligand efficiency sa","glide ligand efficiency ln","glide gscore","glide lipo","glide hbond","glide metal","glide rewards","glide evdw","glide ecoul","glide erotb","glide esite","glide emodel","glide energy","glide einternal","glide confnum","glide posenum","glide eff state penalty","Mark","XP GScore","XP HBond","XP PhobEn","XP PhobEnHB","XP LowMW","XP RotPenal","XP LipophilicEvdW","XP PhobEnPairHB","XP Electro","XP Sitemap","XP Penalties","XP PiStack","XP HBPenal","XP ExposPenal","XP PiCat","XP ClBr","XP Zpotr","XP PoseRank"
+,"6GH8","2","6gh8.1","2021-08-28 20:33:38","2021-08-28 20:33:38","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - preprocessed","6","6gh8.1","2021-08-28 20:37:44","2021-08-28 20:37:57","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","2",true,"2020-3",true,true,true,true,true,true,"1ab4eb5a520fa6509c149ed59b7a645bd50fbe448b303ebf5d6a4b95",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - hbond-opt","7","6gh8.1","2021-08-28 20:39:17","2021-08-28 20:39:17","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","6",true,"2020-3",true,true,true,true,true,true,"1ab4eb5a520fa6509c149ed59b7a645bd50fbe448b303ebf5d6a4b95",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - removed waters","8","6gh8.1","2021-08-28 20:39:34","2021-08-28 20:39:37","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","7",true,"2020-3",true,true,true,true,true,true,"1ab4eb5a520fa6509c149ed59b7a645bd50fbe448b303ebf5d6a4b95",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - minimized","9","6gh8.1","2021-08-28 20:42:28","2021-08-28 20:42:28","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","8",true,"2020-3",true,true,true,true,true,true,"1ab4eb5a520fa6509c149ed59b7a645bd50fbe448b303ebf5d6a4b95",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"favipiravir","3","Favipiravir.1","2021-08-28 20:33:48","2021-08-28 20:33:48","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","Favipiravir.sdf",1,492405,0.400,"1
+3
+4
+2","15
+1 -0.15
+10 0.32
+11 0.63
+12 0.37
+13 0.15
+14 0.37
+15 0.37
+2 -0.57
+3 -0.57
+4 -0.54
+5 -0.62
+6 -0.8
+7 0.45
+8 0.63
+9 -0.04",1,"6
+1 2 acceptor
+1 3 acceptor
+1 4 donor
+1 5 acceptor
+1 6 donor
+6 4 5 7 8 9 10 rings",11,0,0,0,0,0,1,7,"0007837500000001",18.286,30.448,"11206711 2 18050285070258904404
+13380535 21 18266196061468549502
+16945 1 18338798888556382790
+18185500 45 17621315736794077063
+21040471 1 18410856572746250554
+241688 4 17259910615709676234
+2748010 2 18339647853404116318
+29004967 10 18118411635212475875
+5084963 1 18129647596160728709","192.42
+3.42
+1.83
+0.78
+0.2
+0.73
+-0.02
+-1.39
+-0.05
+-0.42
+0
+0.52
+-0.14
+0.02",404.254,107.400,"2
+5
+10",false,0,0,"",,,"","",,,,,,,,,,"",,,"","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"favipiravir","4","Favipiravir.1","2021-08-28 20:35:38","2021-08-28 20:35:38","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","Favipiravir.sdf",1,492405,0.400,"1
+3
+4
+2","15
+1 -0.15
+10 0.32
+11 0.63
+12 0.37
+13 0.15
+14 0.37
+15 0.37
+2 -0.57
+3 -0.57
+4 -0.54
+5 -0.62
+6 -0.8
+7 0.45
+8 0.63
+9 -0.04",1,"6
+1 2 acceptor
+1 3 acceptor
+1 4 donor
+1 5 acceptor
+1 6 donor
+6 4 5 7 8 9 10 rings",11,0,0,0,0,0,1,7,"0007837500000001",18.286,30.448,"11206711 2 18050285070258904404
+13380535 21 18266196061468549502
+16945 1 18338798888556382790
+18185500 45 17621315736794077063
+21040471 1 18410856572746250554
+241688 4 17259910615709676234
+2748010 2 18339647853404116318
+29004967 10 18118411635212475875
+5084963 1 18129647596160728709","192.42
+3.42
+1.83
+0.78
+0.2
+0.73
+-0.02
+-1.39
+-0.05
+-0.42
+0
+0.52
+-0.14
+0.02",404.254,107.400,"2
+5
+10",false,0,2,"ligprep_favipiravir.maegz",1,51139,"Tz1DKFtOSDJdKWMxbmMoRilbY0hdW25IXWMxPU8=","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",1.000,0.0009,0.0005,0.0004,0.0098,0.010,-1,1,0,"OPLS3e",50.793,true,"492405-1","ligprep_favipiravir","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"favipiravir","5","Favipiravir.1","2021-08-28 20:35:38","2021-08-28 20:35:38","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","Favipiravir.sdf",1,492405,0.400,"1
+3
+4
+2","15
+1 -0.15
+10 0.32
+11 0.63
+12 0.37
+13 0.15
+14 0.37
+15 0.37
+2 -0.57
+3 -0.57
+4 -0.54
+5 -0.62
+6 -0.8
+7 0.45
+8 0.63
+9 -0.04",1,"6
+1 2 acceptor
+1 3 acceptor
+1 4 donor
+1 5 acceptor
+1 6 donor
+6 4 5 7 8 9 10 rings",11,0,0,0,0,0,1,7,"0007837500000001",18.286,30.448,"11206711 2 18050285070258904404
+13380535 21 18266196061468549502
+16945 1 18338798888556382790
+18185500 45 17621315736794077063
+21040471 1 18410856572746250554
+241688 4 17259910615709676234
+2748010 2 18339647853404116318
+29004967 10 18118411635212475875
+5084963 1 18129647596160728709","192.42
+3.42
+1.83
+0.78
+0.2
+0.73
+-0.02
+-1.39
+-0.05
+-0.42
+0
+0.52
+-0.14
+0.02",404.254,107.400,"2
+5
+10",false,0,2,"ligprep_favipiravir.maegz",1,51139,"Tz1DKFtOSDJdKWMxbmMoRilbY0hdW25IXWMxPU8=","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",,4.2978,4.2978,0.0000,2.4491,6.747,0,0,0,"OPLS3e",36.920,true,"492405-2","ligprep_favipiravir","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_1","10","sitemap_1_site_1","2021-08-28 20:47:53","2021-08-28 20:47:53","","",,,,,,,"",,"","","",,,,"",,,"","","","","","",,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.793,45,0.798,134.113,0.656,0.641,0.839,1.476,0.666,2.217,0.652,"Chain B: 90,92,93,95,96,97,99,122,126,129,130,133,152,173,174,189,190","(chain.name B & (res.num 90 | res.num 92 | res.num 93 | res.num 95 | res.num 96 | res.num 97 | res.num 99 | res.num 122 | res.num 126 | res.num 129 | res.num 130 | res.num 133 | res.num 152 | res.num 173 | res.num 174 | res.num 189 | res.num 190))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_3","11","sitemap_1_site_3","2021-08-28 20:47:53","2021-08-28 20:47:53","","",,,,,,,"",,"","","",,,,"",,,"","","","","","",,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.646,34,0.499,70.315,0.590,0.625,0.825,0.125,1.302,0.096,0.222,"Chain B: 109,110,111,112,115,145,147,201; Chain C: 84,85,127,128","(chain.name B & (res.num 109 | res.num 110 | res.num 111 | res.num 112 | res.num 115 | res.num 145 | res.num 147 | res.num 201)) OR (chain.name C & (res.num 84 | res.num 85 | res.num 127 | res.num 128))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_2","12","sitemap_1_site_2","2021-08-28 20:47:54","2021-08-28 20:47:54","","",,,,,,,"",,"","","",,,,"",,,"","","","","","",,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.643,35,0.520,73.745,0.598,0.612,0.823,0.194,1.235,0.157,0.408,"Chain A: 84,85,128; Chain D: 109,110,112,115,147,201","(chain.name A & (res.num 84 | res.num 85 | res.num 128)) OR (chain.name D & (res.num 109 | res.num 110 | res.num 112 | res.num 115 | res.num 147 | res.num 201))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_4","13","sitemap_1_site_4","2021-08-28 20:47:54","2021-08-28 20:47:54","","",,,,,,,"",,"","","",,,,"",,,"","","","","","",,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.527,21,0.467,51.450,0.734,0.538,0.635,0.105,0.878,0.119,0.528,"Chain B: 105,107,108,109,142,144; Chain C: 81,82,84,85","(chain.name B & (res.num 105 | res.num 107 | res.num 108 | res.num 109 | res.num 142 | res.num 144)) OR (chain.name C & (res.num 81 | res.num 82 | res.num 84 | res.num 85))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_protein","14","6gh8.1","2021-08-28 20:47:54","2021-08-28 20:47:54","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","8",true,"2020-3",true,true,true,true,true,true,"1ab4eb5a520fa6509c149ed59b7a645bd50fbe448b303ebf5d6a4b95",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_protein","18","6gh8.1","2021-08-28 21:03:06","2021-08-28 21:07:17","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","glide-dock_XP_1","8",true,"2020-3",true,true,true,true,true,true,"1ab4eb5a520fa6509c149ed59b7a645bd50fbe448b303ebf5d6a4b95",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",88139,18.815,18.025,79.875,26.290,26.290,26.290,10.000,10.000,10.000,"glide",true,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"favipiravir","19","Favipiravir.1","2021-08-28 21:03:06","2021-08-28 21:03:23","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","Favipiravir.sdf",1,492405,0.400,"1
+3
+4
+2","15
+1 -0.15
+10 0.32
+11 0.63
+12 0.37
+13 0.15
+14 0.37
+15 0.37
+2 -0.57
+3 -0.57
+4 -0.54
+5 -0.62
+6 -0.8
+7 0.45
+8 0.63
+9 -0.04",1,"6
+1 2 acceptor
+1 3 acceptor
+1 4 donor
+1 5 acceptor
+1 6 donor
+6 4 5 7 8 9 10 rings",11,0,0,0,0,0,1,7,"0007837500000001",18.286,30.448,"11206711 2 18050285070258904404
+13380535 21 18266196061468549502
+16945 1 18338798888556382790
+18185500 45 17621315736794077063
+21040471 1 18410856572746250554
+241688 4 17259910615709676234
+2748010 2 18339647853404116318
+29004967 10 18118411635212475875
+5084963 1 18129647596160728709","192.42
+3.42
+1.83
+0.78
+0.2
+0.73
+-0.02
+-1.39
+-0.05
+-0.42
+0
+0.52
+-0.14
+0.02",404.254,107.400,"2
+5
+10",false,0,2,"ligprep_favipiravir.maegz",1,51139,"Tz1DKFtOSDJdKWMxbmMoRilbY0hdW25IXWMxPU8=","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",1.000,0.0009,0.0005,0.0004,0.0098,0.010,-1,1,0,"OPLS3e",50.793,true,"492405-1","glide-dock_XP_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"glide-grid_6gh8_2",2,1,-3.062,-0.278,-0.619,-0.901,-3.072,,,,,-12.704,-4.852,,,-20.340,-17.556,1.765,1,14,0.010,,-3.072,-1.080,0.000,0.000,-0.500,0.000,-1.128,0.000,-0.364,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,1
+,"favipiravir","20","Favipiravir.1","2021-08-28 21:03:06","2021-08-28 21:07:17","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","Favipiravir.sdf",1,492405,0.400,"1
+3
+4
+2","15
+1 -0.15
+10 0.32
+11 0.63
+12 0.37
+13 0.15
+14 0.37
+15 0.37
+2 -0.57
+3 -0.57
+4 -0.54
+5 -0.62
+6 -0.8
+7 0.45
+8 0.63
+9 -0.04",1,"6
+1 2 acceptor
+1 3 acceptor
+1 4 donor
+1 5 acceptor
+1 6 donor
+6 4 5 7 8 9 10 rings",11,0,0,0,0,0,1,7,"0007837500000001",18.286,30.448,"11206711 2 18050285070258904404
+13380535 21 18266196061468549502
+16945 1 18338798888556382790
+18185500 45 17621315736794077063
+21040471 1 18410856572746250554
+241688 4 17259910615709676234
+2748010 2 18339647853404116318
+29004967 10 18118411635212475875
+5084963 1 18129647596160728709","192.42
+3.42
+1.83
+0.78
+0.2
+0.73
+-0.02
+-1.39
+-0.05
+-0.42
+0
+0.52
+-0.14
+0.02",404.254,107.400,"2
+5
+10",false,0,2,"ligprep_favipiravir.maegz",1,51139,"Tz1DKFtOSDJdKWMxbmMoRilbY0hdW25IXWMxPU8=","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",,4.2978,4.2978,0.0000,2.4491,6.747,0,0,0,"OPLS3e",36.920,true,"492405-2","glide-dock_XP_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"glide-grid_6gh8_2",1,1,-0.188,-0.017,-0.038,-0.055,-2.637,,,,,-16.749,-3.459,,,-23.675,-20.208,1.568,1,20,2.449,,-2.637,-0.534,0.000,0.000,-0.500,0.000,-1.344,0.000,-0.259,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,1
+,"xp_rcpt_frag_sitemap_1_protein_3946","21","xp_rcpt_frag_sitemap_1_protein_3946","2021-08-28 21:07:15","2021-08-28 21:07:17","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","8",true,"2020-3",true,true,true,true,true,true,"1ab4eb5a520fa6509c149ed59b7a645bd50fbe448b303ebf5d6a4b95",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",88139,18.815,18.025,79.875,26.290,26.290,26.290,10.000,10.000,10.000,"glide",true,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"favipiravir","24","XPVIS_0_single","2021-08-28 21:07:17","2021-08-28 21:07:17","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir","Favipiravir.sdf",1,492405,0.400,"1
+3
+4
+2","15
+1 -0.15
+10 0.32
+11 0.63
+12 0.37
+13 0.15
+14 0.37
+15 0.37
+2 -0.57
+3 -0.57
+4 -0.54
+5 -0.62
+6 -0.8
+7 0.45
+8 0.63
+9 -0.04",1,"6
+1 2 acceptor
+1 3 acceptor
+1 4 donor
+1 5 acceptor
+1 6 donor
+6 4 5 7 8 9 10 rings",11,0,0,0,0,0,1,7,"0007837500000001",18.286,30.448,"11206711 2 18050285070258904404
+13380535 21 18266196061468549502
+16945 1 18338798888556382790
+18185500 45 17621315736794077063
+21040471 1 18410856572746250554
+241688 4 17259910615709676234
+2748010 2 18339647853404116318
+29004967 10 18118411635212475875
+5084963 1 18129647596160728709","192.42
+3.42
+1.83
+0.78
+0.2
+0.73
+-0.02
+-1.39
+-0.05
+-0.42
+0
+0.52
+-0.14
+0.02",404.254,107.400,"2
+5
+10",false,0,2,"ligprep_favipiravir.maegz",1,51139,"Tz1DKFtOSDJdKWMxbmMoRilbY0hdW25IXWMxPU8=","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",1.000,0.0009,0.0005,0.0004,0.0098,0.010,-1,1,0,"OPLS3e",50.793,true,"492405-1","ligprep_favipiravir","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"glide-grid_6gh8_2",2,1,-3.062,-0.278,-0.619,-0.901,-3.072,,,,,-12.704,-4.852,,,-20.340,-17.556,1.765,1,14,0.010,,-3.072,-1.080,0.000,0.000,-0.500,0.000,-1.128,0.000,-0.364,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,1
