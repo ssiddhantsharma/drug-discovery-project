@@ -111,3 +111,39 @@ export_(Ribavirin)_similar_ambinter.csv
 export_(Favipiravir)_similar_ambinter.csv
 (Ambinter: http://www.ambinter.com/) 
 
+Active site determination result for refined Lujo viral protein 6GH8_chain_b using CASTp: http://sts.bioe.uic.edu/castp/index.html?j_612794adc675a  (we will determine active site of our others protein's specific chain receptor using CASTp, because it's so easy) @channel please see the video for understanding of ASD using CASTp
+
+(1) lujo virus main viral protein 6GH8 (carry all chains like a,b,c,d.., ligands, hetatm, water)  (2) refined protein 6GH8 as 6GH8(chain_b)pdf (carry only chain b which is specific and identify for homo sapiens host with carry specific genes[literature study outcome]                                      (3) Pyrx accept that refined protein as macromolecule for protein-ligand docking [no need of energy minimization at all]
+
+we need to store our active site determination results analysis for further studies in the following ms docs. Here I have attached ms template file, please edit the file to fulfill all information as like as screenshot. And go to the link http://sts.bioe.uic.edu/castp/index.html?j_612794adc675a to collect analysis all data such as PocID, Area (SA), Volume (SA), Chain
+SeqID, AA, Atom for ms docs.
+
+[Lujo hemorrhagic fever (LUHF) virus] 
+Target protein identification, refinement and validation
+Target protein identification:
+(1) Lujo virus main viral protein 6GH8 downloaded from RCSB (carry all chains like a,b,c,d.., ligands, hetatm, water, etc.)  and save as pdf format rename 6GH8_lujo_viral_protein.
+[Uploaded file in Github.(see data section)]
+[Tool used: RCSB]
+Protein refinement:
+(2) Refined protein 6GH8 as 6GH8(chain_b) pdb (carry only chain b which is specific and identify for homo sapiens host with carrying specific genes[literature study outcome]
+[Uploaded file in Github.(see data section)]
+[Tool used: Biovia Discovery studio]
+Protein validation/ energy minimized:
+(3) Pyrx accept 6GHB refined protein as macromolecule for protein-ligand docking [no need for energy minimization at all]
+[Uploaded pyrx visualized macro molecule image in git hub(see data section)]
+[Tool used: Pyrx]
+Ligand Identification, Retrieving, and Preparation:
+we identify the three best main ligands such as Ribavirin, N-acetylcysteine, Atorvastatin from PubChem databases(downloaded all three's 2D and 3D structure as SDF format) against lujo viral protein according to literature studies outcomes.
+To dock Lujo virus viral refined protein 6GH8 (carry only chain b) and specific literature studies outcome of ligands compound such as Ribavirin, N-acetylcysteine, Atorvastatin and it's all similarity compounds collected by ambinter with default as 80% similarity search about 79 (Ribavirin) 96 (N-acetylcysteine) 98 (Atorvastatin) = 273 of total compounds for 6GH8(chain_b) protein docking. From ambinter downloaded multiple export sdf and multiple export csv files of three main ligands Ribavirin, N-acetylcysteine, Atorvastatin.
+[uploaded all three multiple export sdf and csv format files in GitHub(see data section)]
+[Tool used: Pubchem, Ambinter]
+Active site identification and grid box analysis:
+Lujo virus viral structure refined protein 6GH8 (chain b) Active site determination result we found most area coverage in pocket ID 1:   5869.075  most volume 3769.615.  The active site started SeqID 87 (GLN-N) to SeqID 196 (THR-CG2) and we set grid box between 87 to 196 amino acid residue. The result is available: http://sts.bioe.uic.edu/castp/index.html?j_612794adc675a
+[Uploaded active site determined image from CASTp in GitHub (see data section)]
+[Tool used: CASTp]                                   
+
+When we will be eligible to generate docking results through Schrodinger suite and Pyrx, it means we did it almost. To screening 3 main ligands docking scores we will attach 3*4=12 or 3*5= 15 of the compounds (or our mentors suggest) basis on the top docking score in the excel sheet.  Then it's going really easy to get protein-ligand interaction information ( I can manage it to generate 2D/3D/ excel inf. via discovery studio example is there in the figure), ADMET analysis (every member need to collaborate to generate ADMET output, no worry about strategy! step by step procedure share with you all as pdf) of that all top compounds, and finally, need to generate MD simulation studies of that all top compounds via Schrodinger suite or GROMACS.  (@channel please rises your hand if you are familiar with any of MD simulation studies of your interest tool)  At the end of the above all strategy then we can say channel, ''see we've done our job successfully!''  And final to finally the end, we will do together Lujo virus viral protein 6gh8's CADD studies with a beautiful manuscript with the team's fast manuscript writing effort!:heart::100:
+
+Their are two .CSV file one named all details and one inside the dock xp folder. In that all the scores are visible. Also the complete results are in .pjr format when you add that in schrodinger you can see the workspace what I did. Then their is a ligprep file which is the ligand preperation file and prepwizard file which is the protein preperation file. Site map file in that, the sites details with the coordinates and energy present.
+I have given 2d image and 3d image of the interaction. If their are two confirmation of ligand   meaning two same ligands having different confirmation binding to the receptor you can see 1 and 2 named at last. I only added readme file for 6gh8 with Ribavirin. Rest which include the favipiravir, acetylcysteine etc follow the same.
+
