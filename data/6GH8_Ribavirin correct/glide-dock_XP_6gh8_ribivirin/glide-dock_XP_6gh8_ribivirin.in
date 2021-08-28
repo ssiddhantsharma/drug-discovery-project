@@ -1,5 +1,0 @@
-GRIDFILE   "C:\Users\hp\Desktop\6GH8_Ribavirin correct\glide-grid_6gh8\glide-grid_6gh8.zip"
-LIGANDFILE   glide-dock_XP_6gh8_ribivirin.maegz
-POSTDOCK_XP_DELE   0.5
-PRECISION   XP
-WRITE_XP_DESC   True
