@@ -1,0 +1,241 @@
+"Stars","Title","Entry ID","Entry Name","Date Added","Date Modified","PDB TITLE","PDB ID","PDB CRYST1 a","PDB CRYST1 b","PDB CRYST1 c","PDB CRYST1 alpha","PDB CRYST1 beta","PDB CRYST1 gamma","PDB CRYST1 Space Group","PDB CRYST1 z","PDB CLASSIFICATION","PDB DEPOSITION DATE","PDB format version","PDB R","PDB Rfree","PDB RESOLUTION","PDB EXPDTA","PDB EXPDTA TEMPERATURE","PDB EXPDTA PH","PDB REMARK 350 Biomolecule 1 Transform 1 Chains","PDB REMARK 350 Biomolecule 1 Transform 1 Matrix 1","PDB REMARK 350 Biomolecule 2 Transform 1 Chains","PDB REMARK 350 Biomolecule 2 Transform 1 Matrix 1","Source Path","Source File","Source File Index","PUBCHEM_COMPOUND_CID","PUBCHEM_CONFORMER_RMSD","PUBCHEM_CONFORMER_DIVERSEORDER","PUBCHEM_MMFF94_PARTIAL_CHARGES","PUBCHEM_EFFECTIVE_ROTOR_COUNT","PUBCHEM_PHARMACOPHORE_FEATURES","PUBCHEM_HEAVY_ATOM_COUNT","PUBCHEM_ATOM_DEF_STEREO_COUNT","PUBCHEM_ATOM_UDEF_STEREO_COUNT","PUBCHEM_BOND_DEF_STEREO_COUNT","PUBCHEM_BOND_UDEF_STEREO_COUNT","PUBCHEM_ISOTOPIC_ATOM_COUNT","PUBCHEM_COMPONENT_COUNT","PUBCHEM_CACTVS_TAUTO_COUNT","PUBCHEM_CONFORMER_ID","PUBCHEM_MMFF94_ENERGY","PUBCHEM_FEATURE_SELFOVERLAP","PUBCHEM_SHAPE_FINGERPRINT","PUBCHEM_SHAPE_MULTIPOLES","PUBCHEM_SHAPE_SELFOVERLAP","PUBCHEM_SHAPE_VOLUME","PUBCHEM_COORDINATE_TYPE","chiral flag","version","ct enhanced stereo status","source file","source file index","mmshare version","input","cmdline","tautomer probability","Ionization Penalty","Ionization Penalty Charging","Ionization Penalty Neutral","State Penalty","Charging Adjusted Penalty","Tot Q","Tot abs Q","flags","Force Field","Energy","Chiralities Consistent","Variant","Job Name","entry id backup","prepared","prepared with version","assigned bond orders","added hydrogens","treated metals","created disulfur","converted selenomethionines","deleted far waters","EXECUTE FUNCTION Input Structure Hash","capped termini","het states","ran protassign","Potential Energy-OPLS3e","RMS Derivative-OPLS3e","Max Derivative-OPLS3e","Stretch Energy-OPLS3e","Bend Energy-OPLS3e","LJ-14 Energy-OPLS3e","El-14 Energy-OPLS3e","Van der Waals Energy-OPLS3e","Electrostatic Energy-OPLS3e","Dihedral Energy-OPLS3e","target temperature","ran impref","SiteScore","size","Dscore","volume","exposure","enclosure","contact","phobic","philic","balance","don/acc","residues","residues asl","grid version","gridbox xcent","gridbox ycent","gridbox zcent","gridbox xrange","gridbox yrange","gridbox zrange","gridbox ligxrange","gridbox ligyrange","gridbox ligzrange","grid type","receptor","glide gridfile","glide lignum","glide rotatable bonds","docking score","glide ligand efficiency","glide ligand efficiency sa","glide ligand efficiency ln","XP GScore","glide gscore","glide evdw","glide ecoul","glide energy","glide einternal","glide emodel","XP HBond","XP PhobEn","XP PhobEnHB","XP LowMW","XP RotPenal","XP LipophilicEvdW","XP PhobEnPairHB","XP Electro","XP Sitemap","XP Penalties","XP PiStack","XP HBPenal","XP ExposPenal","XP PiCat","XP ClBr","XP Zpotr","glide confnum","glide posenum","glide eff state penalty","XP PoseRank","Mark"
+,"6GH8","1","6gh8.1","2021-08-28 23:11:31","2021-08-28 23:11:31","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - preprocessed","5","6gh8.1","2021-08-28 23:17:02","2021-08-28 23:18:37","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","1",true,"2020-3",true,true,true,true,true,true,"76c024bd03b11ed56c51547cc474b314f2429a61fdaf7967637dd182",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - hbond-opt","6","6gh8.1","2021-08-28 23:20:01","2021-08-28 23:20:01","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","5",true,"2020-3",true,true,true,true,true,true,"76c024bd03b11ed56c51547cc474b314f2429a61fdaf7967637dd182",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - removed waters","7","6gh8.1","2021-08-28 23:20:06","2021-08-28 23:20:11","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","6",true,"2020-3",true,true,true,true,true,true,"76c024bd03b11ed56c51547cc474b314f2429a61fdaf7967637dd182",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"6GH8 - minimized","8","6gh8.1","2021-08-28 23:22:56","2021-08-28 23:22:56","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","","7",true,"2020-3",true,true,true,true,true,true,"76c024bd03b11ed56c51547cc474b314f2429a61fdaf7967637dd182",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Acetylcysteine","3","Acetylcysteine.1","2021-08-28 23:13:10","2021-08-28 23:13:57","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","Acetylcysteine.sdf",1,12035,0.600,"1
+5
+6
+8
+12
+3
+16
+17
+9
+10
+15
+7
+13
+4
+11
+2
+14","13
+1 -0.41
+10 0.06
+14 0.37
+18 0.18
+19 0.5
+2 -0.65
+3 -0.57
+4 -0.57
+5 -0.73
+6 0.36
+7 0.23
+8 0.66
+9 0.57",4,"5
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 donor
+3 2 3 8 anion",10,1,0,0,0,0,1,2,"00002F0300000001",14.437,25.432,"12423570 1 13063296876676339405
+12932741 1 18059568045353798272
+12932764 1 18343581833078276786
+20711978 78 16558479603742260310
+20711985 344 18335137566254164073
+21040471 1 17975126548419722696
+5084963 1 18341907263841671818
+54338 74 17967820461220120789","187.06
+3.89
+1.81
+1.14
+2.81
+0.76
+-0.03
+-0.42
+-0.29
+-1.84
+-0.47
+0.23
+0.06
+0.3",344.119,119.500,"2
+5
+10",true,0,0,"",,,"","",,,,,,,,,,"",,,"","","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Acetylcysteine","4","Acetylcysteine.1","2021-08-28 23:13:57","2021-08-28 23:13:57","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","Acetylcysteine.sdf",1,12035,0.600,"1
+5
+6
+8
+12
+3
+16
+17
+9
+10
+15
+7
+13
+4
+11
+2
+14","13
+1 -0.41
+10 0.06
+14 0.37
+18 0.18
+19 0.5
+2 -0.65
+3 -0.57
+4 -0.57
+5 -0.73
+6 0.36
+7 0.23
+8 0.66
+9 0.57",4,"5
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 donor
+3 2 3 8 anion",10,1,0,0,0,0,1,2,"00002F0300000001",14.437,25.432,"12423570 1 13063296876676339405
+12932741 1 18059568045353798272
+12932764 1 18343581833078276786
+20711978 78 16558479603742260310
+20711985 344 18335137566254164073
+21040471 1 17975126548419722696
+5084963 1 18341907263841671818
+54338 74 17967820461220120789","187.06
+3.89
+1.81
+1.14
+2.81
+0.76
+-0.03
+-0.42
+-0.29
+-1.84
+-0.47
+0.23
+0.06
+0.3",344.119,119.500,"2
+5
+10",true,0,2,"ligprep_1.maegz",1,51139,"W1NIXVtDSDJdW0NAQEhdKEMoPU8pW09IXSlbTkhdQyg9TylbQ0gzXQ==","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",1.000,0.0042,0.0001,0.0041,0.0000,0.000,-1,1,0,"OPLS3e",11.078,true,"Acetylcysteine-1","ligprep_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_1","9","sitemap_1_site_1","2021-08-28 23:24:17","2021-08-28 23:24:17","","",,,,,,,"",,"","","",,,,"",,,"","","","","","",,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.793,45,0.798,134.113,0.656,0.641,0.839,1.476,0.666,2.217,0.652,"Chain B: 90,92,93,95,96,97,99,122,126,129,130,133,152,173,174,189,190","(chain.name B & (res.num 90 | res.num 92 | res.num 93 | res.num 95 | res.num 96 | res.num 97 | res.num 99 | res.num 122 | res.num 126 | res.num 129 | res.num 130 | res.num 133 | res.num 152 | res.num 173 | res.num 174 | res.num 189 | res.num 190))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_3","10","sitemap_1_site_3","2021-08-28 23:24:17","2021-08-28 23:24:17","","",,,,,,,"",,"","","",,,,"",,,"","","","","","",,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.646,34,0.499,70.315,0.590,0.625,0.825,0.125,1.302,0.096,0.222,"Chain B: 109,110,111,112,115,145,147,201; Chain C: 84,85,127,128","(chain.name B & (res.num 109 | res.num 110 | res.num 111 | res.num 112 | res.num 115 | res.num 145 | res.num 147 | res.num 201)) OR (chain.name C & (res.num 84 | res.num 85 | res.num 127 | res.num 128))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_2","11","sitemap_1_site_2","2021-08-28 23:24:17","2021-08-28 23:24:17","","",,,,,,,"",,"","","",,,,"",,,"","","","","","",,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.643,35,0.520,73.745,0.598,0.612,0.823,0.194,1.235,0.157,0.408,"Chain A: 84,85,128; Chain D: 109,110,112,115,147,201","(chain.name A & (res.num 84 | res.num 85 | res.num 128)) OR (chain.name D & (res.num 109 | res.num 110 | res.num 112 | res.num 115 | res.num 147 | res.num 201))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_site_4","12","sitemap_1_site_4","2021-08-28 23:24:18","2021-08-28 23:24:18","","",,,,,,,"",,"","","",,,,"",,,"","","","","","",,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,0.527,21,0.467,51.450,0.734,0.538,0.635,0.105,0.878,0.119,0.528,"Chain B: 105,107,108,109,142,144; Chain C: 81,82,84,85","(chain.name B & (res.num 105 | res.num 107 | res.num 108 | res.num 109 | res.num 142 | res.num 144)) OR (chain.name C & (res.num 81 | res.num 82 | res.num 84 | res.num 85))",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_protein","13","6gh8.1","2021-08-28 23:24:18","2021-08-28 23:24:18","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","7",true,"2020-3",true,true,true,true,true,true,"76c024bd03b11ed56c51547cc474b314f2429a61fdaf7967637dd182",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",,,,,,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"sitemap_1_protein","14","6gh8.1","2021-08-28 23:29:31","2021-08-28 23:32:12","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","glide-dock_XP_6GH8_Acetylcysteine","7",true,"2020-3",true,true,true,true,true,true,"76c024bd03b11ed56c51547cc474b314f2429a61fdaf7967637dd182",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",88139,18.815,18.025,79.875,26.290,26.290,26.290,10.000,10.000,10.000,"glide",true,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Acetylcysteine","15","Acetylcysteine.1","2021-08-28 23:29:31","2021-08-28 23:32:12","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","Acetylcysteine.sdf",1,12035,0.600,"1
+5
+6
+8
+12
+3
+16
+17
+9
+10
+15
+7
+13
+4
+11
+2
+14","13
+1 -0.41
+10 0.06
+14 0.37
+18 0.18
+19 0.5
+2 -0.65
+3 -0.57
+4 -0.57
+5 -0.73
+6 0.36
+7 0.23
+8 0.66
+9 0.57",4,"5
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 donor
+3 2 3 8 anion",10,1,0,0,0,0,1,2,"00002F0300000001",14.437,25.432,"12423570 1 13063296876676339405
+12932741 1 18059568045353798272
+12932764 1 18343581833078276786
+20711978 78 16558479603742260310
+20711985 344 18335137566254164073
+21040471 1 17975126548419722696
+5084963 1 18341907263841671818
+54338 74 17967820461220120789","187.06
+3.89
+1.81
+1.14
+2.81
+0.76
+-0.03
+-0.42
+-0.29
+-1.84
+-0.47
+0.23
+0.06
+0.3",344.119,119.500,"2
+5
+10",true,0,2,"ligprep_1.maegz",1,51139,"W1NIXVtDSDJdW0NAQEhdKEMoPU8pW09IXSlbTkhdQyg9TylbQ0gzXQ==","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",1.000,0.0042,0.0001,0.0041,0.0000,0.000,-1,1,0,"OPLS3e",11.078,true,"Acetylcysteine-1","glide-dock_XP_6GH8_Acetylcysteine","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"glide-grid_6GH8",1,5,-3.185,-0.319,-0.686,-0.964,-3.185,-3.185,-11.177,-1.609,-12.786,7.991,-11.170,-2.004,0.000,0.000,-0.500,0.494,-0.787,0.000,-0.121,-0.333,0.001,0.000,0.000,0.065,0.000,0.000,0.000,1,39,0.000,1,
+,"xp_rcpt_frag_sitemap_1_protein_31503","16","xp_rcpt_frag_sitemap_1_protein_31503","2021-08-28 23:32:10","2021-08-28 23:32:12","CRYSTAL STRUCTURE OF GP1 DOMAIN OF LUJO VIRUS IN COMPLEX WITH THE FIRST CUB DOMAIN OF NEUROPILIN-2","6GH8",141.808,59.294,83.567,90.000,90.000,90.000,"P 21 21 2",8,"VIRAL PROTEIN","06-MAY-18","3.30",0.266,0.312,2.440,"X-RAY DIFFRACTION",100.000,9.500,"D, A","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","B, C","1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","6gh8.pdb",1,,,"","",,"",,,,,,,,,"",,,"","",,,"",,,,"",,,"","",,,,,,,,,,"",,,"","sitemap_1","7",true,"2020-3",true,true,true,true,true,true,"76c024bd03b11ed56c51547cc474b314f2429a61fdaf7967637dd182",true,"eJy1lDFvwjAQhf+KlbVAffadE8PWqWvVETEgylQKHdKhQvz3xufAc6x26AAS0uOL5XuX98S5oWZp1sOndR3PjNtsZmY9fO3Czsz5Mormtd/2e/O5P24P/fcyQWved9vD48fpsDLP86fT8c3sTl/Hfni4Mi9L8+CadFfjcL8Mt6XrBxkgW8gOMt5ktJAE6SA9JENiWsS0iGlRpyU9esu2aDSgIBYg6Im2Amk4YZO8xAQkT4QF824TkKwS9s4rTwF8pGd5D8JLye9jCnwNujFeWni28ZpukPS4Djid+TNg0oBtztdf8/V0y8ETQwpkgGwhO8hb6t5ZSIJ0kJjmMM1hmgvIV71lWzSOUuAKwHpCKpCGEzbJS0yAcwBBT7QVcB6g1RNdBUofnYLCR1Rga0A1CL/kO7/++FfAtgyYbwEz3eMPQnA/0mWky0iXkS6jS4wuMbrE6JKgS4IuCaYJpgmmiRQFSt6yrfGlZyAF0EYxV0AQHGujWCogSJK1URwqIKgYa6O4rUDpQxslhQ9tFMcKlMYykDsU6PID4xNwHg==",true,-1562.776,0.117,3.080,193.671,965.165,2147.677,693.170,-4086.473,-2259.552,634.625,298.000,true,,,,,,,,,,,,"","",88139,18.815,18.025,79.875,26.290,26.290,26.290,10.000,10.000,10.000,"glide",true,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Acetylcysteine","18","XPVIS_0_single","2021-08-28 23:32:12","2021-08-28 23:32:12","","",,,,,,,"",,"","","",,,,"",,,"","","","","C:\Users\hp\Desktop\Hackbio\6GH8_Acetylcysteine","Acetylcysteine.sdf",1,12035,0.600,"1
+5
+6
+8
+12
+3
+16
+17
+9
+10
+15
+7
+13
+4
+11
+2
+14","13
+1 -0.41
+10 0.06
+14 0.37
+18 0.18
+19 0.5
+2 -0.65
+3 -0.57
+4 -0.57
+5 -0.73
+6 0.36
+7 0.23
+8 0.66
+9 0.57",4,"5
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 donor
+3 2 3 8 anion",10,1,0,0,0,0,1,2,"00002F0300000001",14.437,25.432,"12423570 1 13063296876676339405
+12932741 1 18059568045353798272
+12932764 1 18343581833078276786
+20711978 78 16558479603742260310
+20711985 344 18335137566254164073
+21040471 1 17975126548419722696
+5084963 1 18341907263841671818
+54338 74 17967820461220120789","187.06
+3.89
+1.81
+1.14
+2.81
+0.76
+-0.03
+-0.42
+-0.29
+-1.84
+-0.47
+0.23
+0.06
+0.3",344.119,119.500,"2
+5
+10",true,0,2,"ligprep_1.maegz",1,51139,"W1NIXVtDSDJdW0NAQEhdKEMoPU8pW09IXSlbTkhdQyg9TylbQ0gzXQ==","J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=",1.000,0.0042,0.0001,0.0041,0.0000,0.000,-1,1,0,"OPLS3e",11.078,true,"Acetylcysteine-1","ligprep_1","",,"",,,,,,,"",,"",,,,,,,,,,,,,,,,,,,,,,,,,"","",,,,,,,,,,,"",,"glide-grid_6GH8",1,5,-3.185,-0.319,-0.686,-0.964,-3.185,-3.185,-11.177,-1.609,-12.786,7.991,-11.170,-2.004,0.000,0.000,-0.500,0.494,-0.787,0.000,-0.121,-0.333,0.001,0.000,0.000,0.065,0.000,0.000,0.000,1,39,0.000,1,
