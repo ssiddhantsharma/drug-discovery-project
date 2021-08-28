@@ -1,0 +1,23 @@
+# smap version 1.0
+sitemap_1_out.maegz
+sitemap_1_site_1_surf.vis:1
+sitemap_1_site_1_phob.vis:1
+sitemap_1_site_1_phil.vis:1
+sitemap_1_site_1_donor.vis:1
+sitemap_1_site_1_accptr.vis:1
+sitemap_1_site_3_surf.vis:2
+sitemap_1_site_3_phob.vis:2
+sitemap_1_site_3_phil.vis:2
+sitemap_1_site_3_donor.vis:2
+sitemap_1_site_3_accptr.vis:2
+sitemap_1_site_2_surf.vis:3
+sitemap_1_site_2_phob.vis:3
+sitemap_1_site_2_phil.vis:3
+sitemap_1_site_2_donor.vis:3
+sitemap_1_site_2_accptr.vis:3
+sitemap_1_site_4_surf.vis:4
+sitemap_1_site_4_phob.vis:4
+sitemap_1_site_4_phil.vis:4
+sitemap_1_site_4_donor.vis:4
+sitemap_1_site_4_accptr.vis:4
+#end
