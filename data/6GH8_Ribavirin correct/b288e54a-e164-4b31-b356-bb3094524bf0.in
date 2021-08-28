@@ -1,0 +1,9 @@
+CLIENT_MODULE   schrodinger.application.glide.http_server
+CLIENT_OPTIONS   host=localhost;port=0;timeout=1000
+CORE_DEFINITION   mcssmarts
+CORE_POS_MAX_RMSD   0.5
+CORE_RESTRAIN   True
+GRIDFILE   "C:\Users\hp\Desktop\6GH8_Ribavirin correct\glide-grid_6gh8\glide-grid_6gh8.zip"
+PRECISION   HTVS
+REF_LIGAND_FILE   lead_opt_reference_ligand.maegz
+USE_REF_LIGAND   True
