@@ -1,0 +1,36 @@
+Glide version 88139 (mmshare version 51139)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-612a550b
+Name           : glide-grid_6gh8_2
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\Desktop\Hackbio\6GH8_favipiravir\glide-grid_6gh8_2
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-grid_6gh8_2
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe glide-grid_6gh8_2.in -OVERWRITE -HOST localhost -PROJ C:\Users\hp\AppData\Local\Schrodinger\tmp\Tmp_28Aug2021_2032_29008 -DISP ignore -VIEWNAME glide_gridgen_gui.GridGenPanel -TMPLAUNCHDIR
+StartTime      : 2021-08-28-20:53:56
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ VdW radii of protein atoms scaled by    1.00000000000000     
+ Charge cutoff for polarity  0.250000000000000     
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           27 , 
+          27 ,           27 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          72 ,           72 , 
+          72 ).
+Creating output grid archive 'glide-grid_6gh8_2.zip'
+
+Exiting Glide
+Date: Saturday, August 28 2021, at 20:54:49 India Standard Time
+CPU time (s): 44.2 user, 3.9 system, 50.4 real
+Total elapsed time = 50 seconds
+[running at reduced cpu priority]

@@ -1,0 +1,7 @@
+INPUT_FILE_NAME   ligprep_favipiravir.maegz
+OUT_MAE   ligprep_favipiravir-out.maegz
+FORCE_FIELD   16
+EPIK   yes
+DETERMINE_CHIRALITIES   no
+IGNORE_CHIRALITIES   no
+NUM_STEREOISOMERS   32

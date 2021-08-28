@@ -1,0 +1,2 @@
+ligand,GScore,DockScore,LipophilicEvdW,PhobEn,PhobEnHB,PhobEnPairHB,HBond,Electro,Sitemap,PiCat,ClBr,LowMW,Penalties,HBPenal,ExposPenal,RotPenal,EpikStatePenalty,Zpotr,Similarity,Activity
+favipiravir,-3.07,-3.06,-1.13,0.00,0.00,0.00,-1.08,-0.36,0.00,0.00,0.00,-0.50,0.00,0.00,0.00,0.00,0.01,0.00,1.00,--
