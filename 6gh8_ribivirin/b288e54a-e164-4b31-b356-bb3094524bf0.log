@@ -1,0 +1,70 @@
+Glide version 88139 (mmshare version 51139)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-612a1972
+Name           : b288e54a-e164-4b31-b356-bb3094524bf0
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\Desktop\6GH8_Ribavirin correct
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\b288e54a-e164-4b31-b356-
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide b288e54a-e164-4b31-b356-bb3094524bf0.in
+StartTime      : 2021-08-28-16:39:39
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Starting Glide client mode. Loading module 'schrodinger.application.glide.http_server'.
+Initialization options: 'host=localhost;port=0;timeout=1000'
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+ After readscreen, (nx, ny, nz) = (          27 ,           27 ,           27 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           27 , 
+          27 ,           27 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          72 ,           72 , 
+          72 ).
+
+ Metal   At. Num.  Eff. Charge  Category    x         y         z
+ 7271      20       -1.00          -1    88.123   -21.467    39.640
+ 7300      20       -1.00          -1    17.065    10.568    52.540
+  
+ DOCKMAIN: Grid setup finished
+Listening on 127.0.0.1:63671
+SMARTS pattern for Glide RMSD and Core Constraints:
+OCC1OC(C(O)C1O)n2nc(nc2)C(=O)N
+Calling OPLS_2005 atomtyping ...
+Finished parameter assignment
+
+Reading torsion control file 'C:\Program Files\Schrodinger2020-3\glide-v8.8\bin\Windows-x64\..\..\data\torcontrol.txt':
+  
+  Using generalized torsion control 
+  
+ Tracking reference pose
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+
+GlideScore version SP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore SP5.0 parameters
+GLIDE WARNING: No refined poses satisfy core constraint; will skip this ligand.
+SKIP LIG        1 (Reference): ROUGH POSE REFINE FAILED
+127.0.0.1 - - [28/Aug/2021 16:39:47] "POST /dock_ligand HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2021 16:39:56] "GET /shutdown HTTP/1.1" 200 -
+Stopping Glide client mode.
+GLIDE WARNING: No report data collected; cannot write PoseViewer, etc.
+
+Exiting Glide
+Date: Saturday, August 28 2021, at 16:39:56 India Standard Time
+CPU time (s): 3.0 user, 1.0 system, 13.8 real
+Total elapsed time = 14 seconds
+[running at reduced cpu priority]

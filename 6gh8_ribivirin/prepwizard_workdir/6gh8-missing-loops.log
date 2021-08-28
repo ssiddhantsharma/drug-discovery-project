@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------
+    Build Missing Protein Loops
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-612a13ce
+Name           : 6gh8-missing-loops
+Program        : Build Missing Protein Loops
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\Desktop\6GH8_Ribavirin correct\prepwizard_workdir
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\6gh8-missing-loops
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\run.exe -FROM psp build_missing_loops.py 6gh8-missing-loops-in.maegz -JOBNAME 6gh8-missing-loops -fasta_file 6gh8.fasta -DISP ignore -HOST localhost -VIEWNAME A4N7QJVW1LMVLJ8TJ00F9UD90K12MF4O -PROJ C:\Users\hp\AppData\Local\Schrodinger\tmp\Tmp_28Aug2021_1614_21070
+StartTime      : 2021-08-28-16:15:35
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+All Entries Succesfully Processed
+Total Time Elapsed (hours:minutes:seconds)    0:00:01
+[running at reduced cpu priority]

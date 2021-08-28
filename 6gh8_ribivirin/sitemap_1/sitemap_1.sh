@@ -1,0 +1,1 @@
+"${SCHRODINGER}/sitemap" sitemap_1.in -HOST localhost:1 -TMPLAUNCHDIR
