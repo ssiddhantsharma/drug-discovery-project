@@ -1,0 +1,14 @@
+receptor = 6gh8(chain_b)_Lujo.pdbqt
+ligand = ribavirin_ligand.pdbqt
+
+center_x = 15.4090940295
+center_y = 20.3387525846
+center_z = 71.6900122264
+
+size_x = 40.233416293
+size_y = 35.9717112198
+size_z = 40.6774379169
+
+energy_range = 4
+
+exhaustiveness = 8
