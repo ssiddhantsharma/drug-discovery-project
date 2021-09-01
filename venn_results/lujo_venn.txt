@@ -1,0 +1,37 @@
+Names	total	elements
+drug targets viral targets	1	F3
+drug targets	25	DDAH2
+		HMGCR
+		IREG1
+		SLC15A1
+		NAAA
+		SAT1
+		F7
+		F10
+		RFT2
+		CCL3
+		AANAT
+		SLC52A3
+		SUCLA2
+		NAGPA
+		RFVT3
+		SLC26A6
+		SLC40A1
+		COX7A1
+		MSTP079
+		SLC28A3
+		TFPI
+		PRKAA1
+		SLC11A3
+		HMGCS1
+		NAGLU
+viral targets	10	DDX58
+		LDHC
+		NPPB
+		GOT1
+		ID4
+		ID1
+		NRP2
+		ID2
+		ID3
+		ITCH
