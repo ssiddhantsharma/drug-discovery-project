@@ -1,0 +1,31 @@
+Names	total	elements
+lit-rec.drug targets	15	CYP2C8
+		IREG1
+		RFVT3
+		SLC26A6
+		SLC40A1
+		CYP2E1
+		SLC15A1
+		PB1
+		ALB
+		SLC28A3
+		MSTP079
+		AOX1
+		SLC11A3
+		RFT2
+		SLC52A3
+lassa targets	15	TSG101
+		IRF3
+		MAVS
+		EIF2AK2
+		CD209
+		HLA-C
+		DDX58
+		DAG1
+		IFIH1
+		HAVCR1
+		IFNB1
+		IFNA
+		HAVCR2
+		BST2
+		TNF
