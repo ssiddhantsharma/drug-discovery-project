@@ -90,6 +90,7 @@ and I'm still unclear about many steps in the process.
 1.Acquisition of disease-associated targets and candidate genes
 
 Keywords related to viruses were used to search the known target/genes related to the pathogenesis from three major databases, GeneCards (https://www.genecards.org) [15], OMIM (https://omim.org/) [16], and Drugbank database (https://www.drugbank.ca/). To reduce the false positives, only the curated targets that directly associated with the disease were included, and the repetitive targets were removed. The obtained genes were both inputted to draw Venn diagram.(http://bioinformatics.psb.ugent.be/webtools/Venn/), and the intersection genes were collected as candidate genes.
+
 Even though we didn't get genes identified for Lassa virus - according to the initially considered literature- reccomended target compounds & Viral IDs mentioned, I was able to identify the other dynamic genes associated and get the PPI networks. Similarly apart from F3 gene, other gene networks were also analyzed for Lujo.
 
 2.Protein-protein interaction (PPI) network
