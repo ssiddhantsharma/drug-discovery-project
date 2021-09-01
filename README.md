@@ -85,7 +85,7 @@ and I'm still unclear about many steps in the process.
 2.  There is significant reason to suspect that recombination could have given rise to the current Covid-19 pandemic (Patino-Galino et. al 2019). Since we're working on a relatively new virus, it'll be insightful to check the pandemic causing potential of Lujo & Lassa virus using Recombination Detection Program (http://web.cbio.uct.ac.za/~darren/rdp.html)
 
 
-Gene-Level analysis - Summary
+# Gene-Level analysis - Summary
 
 1.Acquisition of disease-associated targets and candidate genes
 Keywords related to viruses were used to search the known target/genes related to the pathogenesis from three major databases, GeneCards (https://www.genecards.org) [15], OMIM (https://omim.org/) [16], and Drugbank database (https://www.drugbank.ca/). To reduce the false positives, only the curated targets that directly associated with the disease were included, and the repetitive targets were removed. The obtained genes were both inputted to draw Venn diagram.(http://bioinformatics.psb.ugent.be/webtools/Venn/), and the intersection genes were collected as candidate genes.
