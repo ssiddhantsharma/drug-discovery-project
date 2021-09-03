@@ -1,0 +1,151 @@
+######## begin of glide-dock_XP_19133813-0001.log #########
+Glide version 88139 (mmshare version 51139)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-612fb927
+Name           : glide-dock_XP_19133813-0001
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_19133813
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_19133813-0
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe -RESTART -serial glide-dock_XP_19133813-0001.inp -HOST localhost
+StartTime      : 2021-09-01-23:02:25
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+ After readscreen, (nx, ny, nz) = (          27 ,           27 ,           27 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           27 , 
+          27 ,           27 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          72 ,           72 , 
+          72 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+
+Reading torsion control file 'C:\Program Files\Schrodinger2020-3\glide-v8.8\bin\Windows-x64\..\..\data\torcontrol.txt':
+  
+  Using generalized torsion control 
+  
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           2
+ REPORT POSE ANCH_2           2           0           1
+ REPORT POSE ANCH_2           3           0           9
+ REPORT POSE ANCH_2           4           0           4
+ REPORT POSE ANCH_2           5           0           5
+ REPORT POSE ANCH_2           6           0          11
+ REPORT POSE ANCH_2           7           0           3
+Full force-field refinement in receptor field for up to   10 poses
+    7 poses will be postminimized for this ligand
+Reporting postminimized pose   6 GlideScore =     -4.250
+GlideScore(   -4.25)+Epik State Penalty(    0.00) =    -4.25 kcal/mol
+DOCKING RESULTS FOR LIGAND        1 (Amb19133813)
+Best XP pose:    11;  GlideScore =     -4.25 Emodel =    -34.08 E =    -28.68 Eint =     0.89
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_19133813-0001_raw.maegz
+
+Exiting Glide
+Date: Wednesday, September 01 2021, at 23:03:23 India Standard Time
+CPU time (s): 52.5 user, 0.8 system, 54.2 real
+Total elapsed time = 54 seconds
+[running at reduced cpu priority]
+######## end of glide-dock_XP_19133813-0001.log #########
+######## begin of glide-dock_XP_19133813-0002.log #########
+Glide version 88139 (mmshare version 51139)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-612fb968
+Name           : glide-dock_XP_19133813-0002
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_19133813
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_19133813-0
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe -RESTART -serial glide-dock_XP_19133813-0002.inp -HOST localhost
+StartTime      : 2021-09-01-23:03:31
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 1
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+ After readscreen, (nx, ny, nz) = (          27 ,           27 ,           27 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           27 , 
+          27 ,           27 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          72 ,           72 , 
+          72 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+
+Reading torsion control file 'C:\Program Files\Schrodinger2020-3\glide-v8.8\bin\Windows-x64\..\..\data\torcontrol.txt':
+  
+  Using generalized torsion control 
+  
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           7
+ REPORT POSE ANCH_2           2           0           1
+ REPORT POSE ANCH_2           3           0           5
+Full force-field refinement in receptor field for up to   10 poses
+    3 poses will be postminimized for this ligand
+Reporting postminimized pose   2 GlideScore =     -4.365
+GlideScore(   -4.36)+Epik State Penalty(    0.00) =    -4.36 kcal/mol
+DOCKING RESULTS FOR LIGAND        2 (Amb19133813)
+Best XP pose:     1;  GlideScore =     -4.36 Emodel =    -30.44 E =    -27.17 Eint =     2.21
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_19133813-0002_raw.maegz
+
+Exiting Glide
+Date: Wednesday, September 01 2021, at 23:05:02 India Standard Time
+CPU time (s): 85.3 user, 0.8 system, 88.5 real
+Total elapsed time = 88 seconds (1 minutes, 28 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_19133813-0002.log #########

@@ -1,0 +1,234 @@
+######## begin of glide-dock_XP_17621281-0001.log #########
+Glide version 88139 (mmshare version 51139)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-612fb615
+Name           : glide-dock_XP_17621281-0001
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_17621281
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_17621281-0
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe -RESTART -serial glide-dock_XP_17621281-0001.inp -HOST localhost
+StartTime      : 2021-09-01-22:49:18
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+ After readscreen, (nx, ny, nz) = (          27 ,           27 ,           27 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           27 , 
+          27 ,           27 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          72 ,           72 , 
+          72 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+
+Reading torsion control file 'C:\Program Files\Schrodinger2020-3\glide-v8.8\bin\Windows-x64\..\..\data\torcontrol.txt':
+  
+  Using generalized torsion control 
+  
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0          11
+ REPORT POSE ANCH_2           2           0          13
+ REPORT POSE ANCH_2           3           0           1
+ REPORT POSE ANCH_2           4           0           3
+ REPORT POSE ANCH_2           5           0          14
+ REPORT POSE ANCH_2           6           0           2
+Full force-field refinement in receptor field for up to   10 poses
+    6 poses will be postminimized for this ligand
+Reporting postminimized pose   1 GlideScore =     -4.064
+GlideScore(   -4.06)+Epik State Penalty(    2.61) =    -1.45 kcal/mol
+DOCKING RESULTS FOR LIGAND        1 (Amb17621281)
+Best XP pose:    11;  GlideScore =     -4.06 Emodel =    -29.63 E =    -26.88 Eint =     4.00
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           5
+ REPORT POSE ANCH_2           2           0           3
+ REPORT POSE ANCH_2           3           0           6
+ REPORT POSE ANCH_2           4           0           9
+ REPORT POSE ANCH_2           5           0          13
+ REPORT POSE ANCH_2           6           0           1
+ REPORT POSE ANCH_2           7           0          10
+ REPORT POSE ANCH_2           8           0          12
+ REPORT POSE ANCH_2           9           0          15
+ REPORT POSE ANCH_2          10           0          17
+   10 poses will be postminimized for this ligand
+Reporting postminimized pose   9 GlideScore =     -4.088
+GlideScore(   -4.09)+Epik State Penalty(    2.61) =    -1.48 kcal/mol
+DOCKING RESULTS FOR LIGAND        2 (Amb17621281)
+Best XP pose:    15;  GlideScore =     -4.09 Emodel =    -30.71 E =    -29.00 Eint =     5.66
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           1
+ REPORT POSE ANCH_2           2           0           2
+ REPORT POSE ANCH_2           3           0           7
+ REPORT POSE ANCH_2           4           0          19
+ REPORT POSE ANCH_2           5           0          15
+ REPORT POSE ANCH_2           6           0          18
+    6 poses will be postminimized for this ligand
+Reporting postminimized pose   6 GlideScore =     -4.505
+GlideScore(   -4.51)+Epik State Penalty(    2.61) =    -1.90 kcal/mol
+DOCKING RESULTS FOR LIGAND        3 (Amb17621281)
+Best XP pose:    18;  GlideScore =     -4.51 Emodel =    -35.25 E =    -30.81 Eint =     2.70
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           2
+ REPORT POSE ANCH_2           2           0           6
+ REPORT POSE ANCH_2           3           0           4
+    3 poses will be postminimized for this ligand
+Reporting postminimized pose   1 GlideScore =     -4.550
+GlideScore(   -4.55)+Epik State Penalty(    2.61) =    -1.94 kcal/mol
+DOCKING RESULTS FOR LIGAND        4 (Amb17621281)
+Best XP pose:     2;  GlideScore =     -4.55 Emodel =    -35.13 E =    -31.45 Eint =     4.71
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_17621281-0001_raw.maegz
+
+Exiting Glide
+Date: Wednesday, September 01 2021, at 22:52:31 India Standard Time
+CPU time (s): 184.4 user, 1.2 system, 190.6 real
+Total elapsed time = 191 seconds (3 minutes, 11 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_17621281-0001.log #########
+######## begin of glide-dock_XP_17621281-0002.log #########
+Glide version 88139 (mmshare version 51139)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-612fb6dc
+Name           : glide-dock_XP_17621281-0002
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_17621281
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_17621281-0
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe -RESTART -serial glide-dock_XP_17621281-0002.inp -HOST localhost
+StartTime      : 2021-09-01-22:52:37
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 4
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+ After readscreen, (nx, ny, nz) = (          27 ,           27 ,           27 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           27 , 
+          27 ,           27 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          72 ,           72 , 
+          72 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+
+Reading torsion control file 'C:\Program Files\Schrodinger2020-3\glide-v8.8\bin\Windows-x64\..\..\data\torcontrol.txt':
+  
+  Using generalized torsion control 
+  
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0          18
+ REPORT POSE ANCH_2           2           0          16
+ REPORT POSE ANCH_2           3           0           8
+Full force-field refinement in receptor field for up to   10 poses
+    3 poses will be postminimized for this ligand
+Reporting postminimized pose   2 GlideScore =     -4.265
+GlideScore(   -4.26)+Epik State Penalty(    0.01) =    -4.25 kcal/mol
+DOCKING RESULTS FOR LIGAND        5 (Amb17621281)
+Best XP pose:    16;  GlideScore =     -4.26 Emodel =    -32.83 E =    -31.77 Eint =     1.27
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0          12
+ REPORT POSE ANCH_2           2           0           7
+ REPORT POSE ANCH_2           3           0           9
+ REPORT POSE ANCH_2           4           0           5
+ REPORT POSE ANCH_2           5           0          10
+ REPORT POSE ANCH_2           6           0           4
+ REPORT POSE ANCH_2           7           0          11
+ REPORT POSE ANCH_2           8           0           2
+    8 poses will be postminimized for this ligand
+Reporting postminimized pose   6 GlideScore =     -4.428
+GlideScore(   -4.43)+Epik State Penalty(    0.01) =    -4.41 kcal/mol
+DOCKING RESULTS FOR LIGAND        6 (Amb17621281)
+Best XP pose:     4;  GlideScore =     -4.43 Emodel =    -33.31 E =    -27.22 Eint =     2.91
+impmm_post_process_ligand(): input structure has 7346 atoms, maximum allowed is 1000.
+GLIDE WARNING: Too many atoms or bonds for structure in: glide-dock_XP_17621281-0002_in.maegz
+SKIP LIG        7 (sitemap_1_protein): STRUCTURE HAS TOO MANY ATOMS OR BONDS
+GLIDE WARNING: Will skip atomtyping, docking.
+Glide Extra Precision Mode active.
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_17621281-0002_raw.maegz
+
+Exiting Glide
+Date: Wednesday, September 01 2021, at 22:54:15 India Standard Time
+CPU time (s): 93.3 user, 0.5 system, 95.2 real
+Total elapsed time = 95 seconds (1 minutes, 35 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_17621281-0002.log #########
