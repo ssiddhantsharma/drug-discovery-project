@@ -1,0 +1,71 @@
+
+====================================
+            Glide Script            
+====================================
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-6131263c
+Name           : glide-dock_XP_37862291
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\Desktop\Hackbio\docking\6gh8_ribavirin and similar compounds\glide-dock_XP_37862291
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_37862291
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe glide-dock_XP_37862291.in -OVERWRITE -adjust -HOST localhost:1 -PROJ "C:\Users\hp\Desktop\Hackbio\docking\6gh8_ribavirin and similar compounds\6GH8_ribivarin and today insane similar compounds.prj" -DISP append -VIEWNAME glide_docking_gui.DockingPanel -TMPLAUNCHDIR
+StartTime      : 2021-09-03-01:00:06
+--------------------------------------------------------------------------------
+
+Running locally: False
+Max retries: 2
+Input file: glide-dock_XP_37862291.in
+
+Setting up docking job
+Separating ligands...
+Number of structures that are to be docked: 1
+Setting up Glide docking jobs...
+
+Running subjobs on hosts:
+  localhost (Max: 1)
+Number of jobs:       1
+Max retries per job:  2
+Max allowed failures: unlimited
+Run with -LOCAL:      False
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  JovelVargheseJose718-0-61312645 glide-dock_XP_37862291-0001 localhost [JovelVargheseJose718]
+1 0 0 | finished  JovelVargheseJose718-0-61312645 glide-dock_XP_37862291-0001 localhost [JovelVargheseJose718]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+All jobs succeeded: 1 ligands done.
+Writing poses to glide-dock_XP_37862291_pv.maegz
+Combining log files to glide-dock_XP_37862291_subjobs.log
+Archiving subjob pose files in glide-dock_XP_37862291_subjob_poses.zip
+Archiving subjob input and log files in glide-dock_XP_37862291_subjobs.tar.gz
+Cleaning up...
+
+Elapsed times:
+- preprocessing: 0.1 s
+- running subjobs: 89.0 s
+- postprocessing: 0.6 s
+- cleanup: 0.0 s
+
+All Glide docking subjobs: Total CPU time = 75 seconds (1 min 15 s)
+
+Finished at: Fri Sep  3 01:01:39 2021
+Total elapsed time for Glide script = 90 seconds (1 min 30 s)
+[running at reduced cpu priority]
