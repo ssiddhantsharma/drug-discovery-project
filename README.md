@@ -85,22 +85,28 @@ and I'm still unclear about many steps in the process.
 2.  There is significant reason to suspect that recombination could have given rise to the current Covid-19 pandemic (Patino-Galino et. al 2019). Since we're working on a relatively new virus, it'll be insightful to check the pandemic causing potential of Lujo & Lassa virus using Recombination Detection Program (http://web.cbio.uct.ac.za/~darren/rdp.html)
 
 
-# Gene-Level analysis - Summary
+## Gene-Level analysis - Summary
 
 1.Acquisition of disease-associated targets and candidate genes
+
 Keywords related to viruses were used to search the known target/genes related to the pathogenesis from three major databases, GeneCards (https://www.genecards.org) [15], OMIM (https://omim.org/) [16], and Drugbank database (https://www.drugbank.ca/). To reduce the false positives, only the curated targets that directly associated with the disease were included, and the repetitive targets were removed. The obtained genes were both inputted to draw Venn diagram.(http://bioinformatics.psb.ugent.be/webtools/Venn/), and the intersection genes were collected as candidate genes.
 
+Even though we didn't get genes identified for Lassa virus - according to the initially considered literature- recommended target compounds & Viral IDs mentioned, I was able to identify the other dynamic genes associated and get the PPI networks. Similarly apart from F3 gene, other gene networks were also analyzed for Lujo.
+
 2.Protein-protein interaction (PPI) network
+
 Based on the candidate genes, a PPI network was constructed by importing the candidate genes to the Search Tool for the Retrieval of Interacting Genes (STRING, https://string-db.org/) database, with a highest confidence of 0.9 [17]. Cytoscape software, version 3.8.1 [18] was used to visualize the PPI network. Then, three topological features, “degree”, “betweenness”, and “closeness” were calculated to identify the key genes. 
 “Degree” parameter represents the number of edges associated with a node. 
 “Betweenness” indicates the number of shortest paths between pairs of nodes, and 
 “Closeness” describes the inverse of the number of distances.
 
 3.GO and KEGG pathway enrichment analysis
+
 These data is suppossed to be studied in deep, but for now some important data like Biological Process, Molecular Function, & few Pfam domain is collected and studied from the gene-networks obtained/attached.  
 The Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment were performed by the Database for Metascape (https://metascape.org). GO functionally annotates key genes into three main terms, including cellular components (CCs), molecular functions (MFs), and biological processes (BPs). Besides, Cytoscape ClueGO plugin was employed to further analyze BPs enrichment. KEGG enrichment analysis unveils the possible biological process with key genes. In addition, the bubble chart of GO and KEGG enrichment analysis were performed on the bioinformatics platform (http://www.bioinformatics.com.cn/).
 
 4.Construction of drug-components-disease-targets-pathways network
+
 To characterize the therapeutic mechanisms of ginger for colon cancer, a network of drug-components-disease-targets-pathways was constructed using Cytoscape software, version 3.8.1 [18]. In the network, the nodes with different colors and shapes represent the drug, components, disease, target genes, or disease related pathways, respectively, and an “edge” is an association between the nodes.
 
 A Schematic alternative for finding Drug Compounds :
