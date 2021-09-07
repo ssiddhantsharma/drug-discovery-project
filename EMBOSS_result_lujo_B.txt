@@ -1,0 +1,51 @@
+>Lujo_6gh8_chainB
+QHCIQHNHSSITFSLLTNKSDLEKCNFTRLQAVDRVIFDLFREFHHRVGDFPVTSDLKCSHNTSYRVIEYEVTKESLPRLQEAVSTLFPDLHLSEDRFLQIQAHDDKNCT
+
+PEPSTATS of Lujo_6gh8_chainB from 1 to 110
+
+Molecular weight = 12903.46  		Residues = 110   
+Average Residue Weight  = 117.304 	Charge   = 0.0   
+Isoelectric Point = 6.4840
+A280 Molar Extinction Coefficients  = 2980 (reduced)   3230 (cystine bridges)
+A280 Extinction Coefficients 1mg/ml = 0.231 (reduced)   0.250 (cystine bridges)
+Probability of expression in inclusion bodies = 0.731
+
+Residue		Number		Mole%		DayhoffStat
+A = Ala		3		2.727  		0.317  	
+B = Asx		0		0.000  		0.000  	
+C = Cys		4		3.636  		1.254  	
+D = Asp		9		8.182  		1.488  	
+E = Glu		7		6.364  		1.061  	
+F = Phe		8		7.273  		2.020  	
+G = Gly		1		0.909  		0.108  	
+H = His		8		7.273  		3.636  	
+I = Ile		5		4.545  		1.010  	
+J = ---		0		0.000  		0.000  	
+K = Lys		5		4.545  		0.689  	
+L = Leu		12		10.909 		1.474  	
+M = Met		0		0.000  		0.000  	
+N = Asn		5		4.545  		1.057  	
+O = ---		0		0.000  		0.000  	
+P = Pro		3		2.727  		0.524  	
+Q = Gln		6		5.455  		1.399  	
+R = Arg		7		6.364  		1.299  	
+S = Ser		10		9.091  		1.299  	
+T = Thr		8		7.273  		1.192  	
+U = ---		0		0.000  		0.000  	
+V = Val		7		6.364  		0.964  	
+W = Trp		0		0.000  		0.000  	
+X = Xaa		0		0.000  		0.000  	
+Y = Tyr		2		1.818  		0.535  	
+Z = Glx		0		0.000  		0.000  	
+
+Property	Residues		Number		Mole%
+Tiny		(A+C+G+S+T)		26		23.636
+Small		(A+B+C+D+G+N+P+S+T+V)	50		45.455
+Aliphatic	(A+I+L+V)		27		24.545
+Aromatic	(F+H+W+Y)		18		16.364
+Non-polar	(A+C+F+G+I+L+M+P+V+W+Y)	45		40.909
+Polar		(D+E+H+K+N+Q+R+S+T+Z)	65		59.091
+Charged		(B+D+E+H+K+R+Z)		36		32.727
+Basic		(H+K+R)			20		18.182
+Acidic		(B+D+E+Z)		16		14.545
+
