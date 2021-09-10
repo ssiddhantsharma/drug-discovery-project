@@ -1,0 +1,358 @@
+######## begin of glide-dock_XP_extra_2-0001.log #########
+Glide version 88139 (mmshare version 51139)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-613043fc
+Name           : glide-dock_XP_extra_2-0001
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_extra_2
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_extra_2-00
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe -RESTART -serial glide-dock_XP_extra_2-0001.inp -HOST localhost
+StartTime      : 2021-09-02-08:54:45
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+ After readscreen, (nx, ny, nz) = (          27 ,           27 ,           27 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           27 , 
+          27 ,           27 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          72 ,           72 , 
+          72 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+
+Reading torsion control file 'C:\Program Files\Schrodinger2020-3\glide-v8.8\bin\Windows-x64\..\..\data\torcontrol.txt':
+  
+  Using generalized torsion control 
+  
+ Number of rotatable bonds            5
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           2
+ REPORT POSE ANCH_2           2           0           3
+ REPORT POSE ANCH_2           3           0           5
+ REPORT POSE ANCH_2           4           0          10
+ REPORT POSE ANCH_2           5           0           9
+ REPORT POSE ANCH_2           6           0           8
+ REPORT POSE ANCH_2           7           0           1
+Full force-field refinement in receptor field for up to   10 poses
+    7 poses will be postminimized for this ligand
+Reporting postminimized pose   7 GlideScore =     -3.931
+GlideScore(   -3.93)+Epik State Penalty(    0.00) =    -3.93 kcal/mol
+DOCKING RESULTS FOR LIGAND        1 (Amb33853602)
+Best XP pose:     1;  GlideScore =     -3.93 Emodel =    -36.48 E =    -29.87 Eint =     1.48
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            8
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           8
+ REPORT POSE ANCH_2           2           0           5
+ REPORT POSE ANCH_2           3           0          17
+    3 poses will be postminimized for this ligand
+Reporting postminimized pose   1 GlideScore =     -3.024
+GlideScore(   -3.02)+Epik State Penalty(    0.00) =    -3.02 kcal/mol
+DOCKING RESULTS FOR LIGAND        2 (Amb33852228)
+Best XP pose:     8;  GlideScore =     -3.02 Emodel =    -29.88 E =    -27.82 Eint =     5.96
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            9
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           4
+ REPORT POSE ANCH_2           2           0           8
+ REPORT POSE ANCH_2           3           0           9
+ REPORT POSE ANCH_2           4           0           2
+ REPORT POSE ANCH_2           5           0           3
+ REPORT POSE ANCH_2           6           0           1
+ REPORT POSE ANCH_2           7           0           7
+    7 poses will be postminimized for this ligand
+Reporting postminimized pose   6 GlideScore =     -2.599
+GlideScore(   -2.60)+Epik State Penalty(    0.00) =    -2.60 kcal/mol
+DOCKING RESULTS FOR LIGAND        3 (Amb33836363)
+Best XP pose:     1;  GlideScore =     -2.60 Emodel =    -39.01 E =    -30.53 Eint =     4.86
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            7
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           5
+ REPORT POSE ANCH_2           2           0           8
+ REPORT POSE ANCH_2           3           0          14
+ REPORT POSE ANCH_2           4           0           6
+ REPORT POSE ANCH_2           5           0           3
+ REPORT POSE ANCH_2           6           0           4
+ REPORT POSE ANCH_2           7           0           1
+    7 poses will be postminimized for this ligand
+Reporting postminimized pose   6 GlideScore =     -4.488
+GlideScore(   -4.49)+Epik State Penalty(    0.00) =    -4.48 kcal/mol
+DOCKING RESULTS FOR LIGAND        4 (Amb33836362)
+Best XP pose:     4;  GlideScore =     -4.49 Emodel =    -42.96 E =    -40.81 Eint =     3.86
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0          10
+ REPORT POSE ANCH_2           2           0           6
+ REPORT POSE ANCH_2           3           0           2
+ REPORT POSE ANCH_2           4           0          11
+ REPORT POSE ANCH_2           5           0           4
+ REPORT POSE ANCH_2           6           0           7
+ REPORT POSE ANCH_2           7           0           9
+ REPORT POSE ANCH_2           8           0           5
+    8 poses will be postminimized for this ligand
+Reporting postminimized pose   3 GlideScore =     -4.822
+GlideScore(   -4.82)+Epik State Penalty(    0.00) =    -4.82 kcal/mol
+DOCKING RESULTS FOR LIGAND        5 (Amb33836361)
+Best XP pose:     2;  GlideScore =     -4.82 Emodel =    -32.74 E =    -29.45 Eint =     4.66
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           3
+ REPORT POSE ANCH_2           2           0          10
+ REPORT POSE ANCH_2           3           0           1
+ REPORT POSE ANCH_2           4           0          11
+ REPORT POSE ANCH_2           5           0           2
+    5 poses will be postminimized for this ligand
+Reporting original pose   5 GlideScore =     -4.492
+GlideScore(   -4.49)+Epik State Penalty(    0.00) =    -4.49 kcal/mol
+DOCKING RESULTS FOR LIGAND        6 (Amb33836345)
+Best XP pose:     2;  GlideScore =     -4.49 Emodel =    -29.35 E =    -23.73 Eint =     3.54
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           9
+ REPORT POSE ANCH_2           2           0           2
+ REPORT POSE ANCH_2           3           0           5
+ REPORT POSE ANCH_2           4           0           7
+ REPORT POSE ANCH_2           5           0          10
+ REPORT POSE ANCH_2           6           0           6
+ REPORT POSE ANCH_2           7           0          13
+ REPORT POSE ANCH_2           8           0          12
+ REPORT POSE ANCH_2           9           0           1
+    9 poses will be postminimized for this ligand
+Reporting postminimized pose   6 GlideScore =     -4.254
+GlideScore(   -4.25)+Epik State Penalty(    2.61) =    -1.64 kcal/mol
+DOCKING RESULTS FOR LIGAND        7 (Amb33834778)
+Best XP pose:     6;  GlideScore =     -4.25 Emodel =    -28.61 E =    -21.92 Eint =     0.00
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_extra_2-0001_raw.maegz
+
+Exiting Glide
+Date: Thursday, September 02 2021, at 09:04:36 India Standard Time
+CPU time (s): 565.5 user, 4.9 system, 587.0 real
+Total elapsed time = 587 seconds (9 minutes, 47 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_extra_2-0001.log #########
+######## begin of glide-dock_XP_extra_2-0002.log #########
+Glide version 88139 (mmshare version 51139)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-61304651
+Name           : glide-dock_XP_extra_2-0002
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_extra_2
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_extra_2-00
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe -RESTART -serial glide-dock_XP_extra_2-0002.inp -HOST localhost
+StartTime      : 2021-09-02-09:04:42
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 7
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+ After readscreen, (nx, ny, nz) = (          27 ,           27 ,           27 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           27 , 
+          27 ,           27 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          72 ,           72 , 
+          72 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+
+Reading torsion control file 'C:\Program Files\Schrodinger2020-3\glide-v8.8\bin\Windows-x64\..\..\data\torcontrol.txt':
+  
+  Using generalized torsion control 
+  
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           2
+ REPORT POSE ANCH_2           2           0           4
+ REPORT POSE ANCH_2           3           0           1
+Full force-field refinement in receptor field for up to   10 poses
+    3 poses will be postminimized for this ligand
+Reporting postminimized pose   3 GlideScore =     -3.569
+GlideScore(   -3.57)+Epik State Penalty(    2.61) =    -0.96 kcal/mol
+DOCKING RESULTS FOR LIGAND        8 (Amb33834778)
+Best XP pose:     1;  GlideScore =     -3.57 Emodel =    -35.05 E =    -29.69 Eint =     2.45
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           3
+ REPORT POSE ANCH_2           2           0          14
+ REPORT POSE ANCH_2           3           0           9
+ REPORT POSE ANCH_2           4           0           2
+ REPORT POSE ANCH_2           5           0          13
+ REPORT POSE ANCH_2           6           0          16
+ REPORT POSE ANCH_2           7           0           1
+    7 poses will be postminimized for this ligand
+Reporting postminimized pose   2 GlideScore =     -5.159
+GlideScore(   -5.16)+Epik State Penalty(    0.01) =    -5.14 kcal/mol
+DOCKING RESULTS FOR LIGAND        9 (Amb33834778)
+Best XP pose:    14;  GlideScore =     -5.16 Emodel =    -29.73 E =    -28.61 Eint =     2.98
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           6
+ REPORT POSE ANCH_2           2           0          10
+ REPORT POSE ANCH_2           3           0           9
+ REPORT POSE ANCH_2           4           0          15
+ REPORT POSE ANCH_2           5           0          14
+    5 poses will be postminimized for this ligand
+Reporting postminimized pose   4 GlideScore =     -4.393
+GlideScore(   -4.39)+Epik State Penalty(    2.61) =    -1.78 kcal/mol
+DOCKING RESULTS FOR LIGAND       10 (Amb33829277)
+Best XP pose:    15;  GlideScore =     -4.39 Emodel =    -34.95 E =    -30.61 Eint =     4.09
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           3
+ REPORT POSE ANCH_2           2           0          14
+ REPORT POSE ANCH_2           3           0           7
+ REPORT POSE ANCH_2           4           0          19
+ REPORT POSE ANCH_2           5           0          15
+    5 poses will be postminimized for this ligand
+Reporting postminimized pose   1 GlideScore =     -4.763
+GlideScore(   -4.76)+Epik State Penalty(    2.61) =    -2.15 kcal/mol
+DOCKING RESULTS FOR LIGAND       11 (Amb33829277)
+Best XP pose:     3;  GlideScore =     -4.76 Emodel =    -34.12 E =    -29.53 Eint =     5.01
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           1
+ REPORT POSE ANCH_2           2           0           7
+ REPORT POSE ANCH_2           3           0          18
+    3 poses will be postminimized for this ligand
+Reporting postminimized pose   3 GlideScore =     -4.375
+GlideScore(   -4.37)+Epik State Penalty(    0.01) =    -4.36 kcal/mol
+DOCKING RESULTS FOR LIGAND       12 (Amb33829277)
+Best XP pose:    18;  GlideScore =     -4.37 Emodel =    -33.92 E =    -28.42 Eint =     1.70
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds           15
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+ REPORT POSE ANCH_2           1           0           2
+ REPORT POSE ANCH_2           2           0          10
+ REPORT POSE ANCH_2           3           0           4
+ REPORT POSE ANCH_2           4           0           5
+ REPORT POSE ANCH_2           5           0           1
+    5 poses will be postminimized for this ligand
+Reporting postminimized pose   3 GlideScore =     -3.110
+GlideScore(   -3.11)+Epik State Penalty(    0.00) =    -3.11 kcal/mol
+DOCKING RESULTS FOR LIGAND       13 (Amb33828957)
+Best XP pose:     4;  GlideScore =     -3.11 Emodel =    -26.38 E =    -24.41 Eint =     9.72
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_extra_2-0002_raw.maegz
+
+Exiting Glide
+Date: Thursday, September 02 2021, at 09:13:00 India Standard Time
+CPU time (s): 476.2 user, 5.1 system, 495.5 real
+Total elapsed time = 496 seconds (8 minutes, 16 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_extra_2-0002.log #########
