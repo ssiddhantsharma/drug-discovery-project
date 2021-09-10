@@ -1,0 +1,73 @@
+
+====================================
+            Glide Script            
+====================================
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-612f7b45
+Name           : glide-dock_XP_17619925
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\Desktop\Hackbio\docking\6gh8_ribavirin and similar compounds\glide-dock_XP_17619925
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_17619925
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe glide-dock_XP_17619925.in -OVERWRITE -adjust -HOST localhost:1 -PROJ C:\Users\hp\AppData\Local\Schrodinger\tmp\Tmp_01Sep2021_1737_05620 -DISP append -VIEWNAME glide_docking_gui.DockingPanel -TMPLAUNCHDIR
+StartTime      : 2021-09-01-18:38:22
+--------------------------------------------------------------------------------
+
+Running locally: False
+Max retries: 2
+Input file: glide-dock_XP_17619925.in
+
+Setting up docking job
+Separating ligands...
+Number of structures that are to be docked: 3
+Setting up Glide docking jobs...
+
+Running subjobs on hosts:
+  localhost (Max: 1)
+Number of jobs:       2
+Max retries per job:  2
+Max allowed failures: unlimited
+Run with -LOCAL:      False
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 1 | launched  JovelVargheseJose718-0-612f7b4b glide-dock_XP_17619925-0001 localhost [JovelVargheseJose718]
+1 0 1 | finished  JovelVargheseJose718-0-612f7b4b glide-dock_XP_17619925-0001 localhost [JovelVargheseJose718]
+1 1 0 | launched  JovelVargheseJose718-0-612f7baf glide-dock_XP_17619925-0002 localhost [JovelVargheseJose718]
+2 0 0 | finished  JovelVargheseJose718-0-612f7baf glide-dock_XP_17619925-0002 localhost [JovelVargheseJose718]
+
+All jobs have completed.
+
+2 of 2 job(s) succeeded; 0 job(s) failed.
+
+Some jobs failed: 2 of 3 ligands done.
+Writing poses to glide-dock_XP_17619925_pv.maegz
+Combining log files to glide-dock_XP_17619925_subjobs.log
+Archiving subjob pose files in glide-dock_XP_17619925_subjob_poses.zip
+Archiving subjob input and log files in glide-dock_XP_17619925_subjobs.tar.gz
+Cleaning up...
+
+Elapsed times:
+- preprocessing: 0.3 s
+- running subjobs: 112.4 s
+- postprocessing: 0.3 s
+- cleanup: 0.0 s
+
+All Glide docking subjobs: Total CPU time = 88 seconds (1 min 28 s)
+
+Finished at: Wed Sep  1 18:40:17 2021
+Total elapsed time for Glide script = 113 seconds (1 min 53 s)
+[running at reduced cpu priority]

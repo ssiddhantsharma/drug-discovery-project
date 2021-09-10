@@ -1,0 +1,61 @@
+
+====================================
+            Glide Script            
+====================================
+
+--------------------------------------------------------------------------------
+JobId          : JovelVargheseJose718-0-612e2bb7
+Name           : glide-dock_XP_7
+Program        : Glide
+Host           : JovelVargheseJose718
+Dir            : C:\Users\hp\Desktop\Hackbio\6GH8_Ribavirin correct\glide-dock_XP_7
+HostEntry      : localhost
+JobHost        : JovelVargheseJose718
+JobDir         : C:\Users\hp\AppData\Local\Schrodinger\tmp\glide-dock_XP_7
+JobSchrodinger : C:\Program Files\Schrodinger2020-3
+Commandline    : C:\Program Files\Schrodinger2020-3\glide.exe glide-dock_XP_7.in -OVERWRITE -adjust -HOST localhost:1 -PROJ "C:\Users\hp\Desktop\Hackbio\6GH8_Ribavirin correct\6GH8_Ribivirin.prj" -DISP append -VIEWNAME glide_docking_gui.DockingPanel -TMPLAUNCHDIR
+StartTime      : 2021-08-31-18:46:41
+--------------------------------------------------------------------------------
+
+Running locally: False
+Max retries: 2
+Input file: glide-dock_XP_7.in
+
+Setting up docking job
+Separating ligands...
+Number of structures that are to be docked: 572
+Setting up Glide docking jobs...
+
+Running subjobs on hosts:
+  localhost (Max: 1)
+Number of jobs:       8
+Max retries per job:  2
+Max allowed failures: unlimited
+Run with -LOCAL:      False
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 7 | launched  JovelVargheseJose718-0-612e2bc0 glide-dock_XP_7-0001 localhost [JovelVargheseJose718]
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source             
+libifcoremd.dll    00007FFFD3BF7914  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FF81F271905  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FF820B754E0  Unknown               Unknown  Unknown
+ntdll.dll          00007FF82184485B  Unknown               Unknown  Unknown
+Subjob 'glide-dock_XP_7-0001' died (killed) [jobid JovelVargheseJose718-0-612e2bc0]
+0 0 8 | killed    JovelVargheseJose718-0-612e2bc0 glide-dock_XP_7-0001 localhost [JovelVargheseJose718]
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source             
+libifcoremd.dll    00007FFFD3BF7914  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FF81F271905  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FF820B754E0  Unknown               Unknown  Unknown
+ntdll.dll          00007FF82184485B  Unknown               Unknown  Unknown
