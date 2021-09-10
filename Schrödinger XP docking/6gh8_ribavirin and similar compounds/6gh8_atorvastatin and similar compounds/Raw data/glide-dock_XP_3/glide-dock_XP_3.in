@@ -1,5 +1,0 @@
-GRIDFILE   "C:\Users\hp\Desktop\Hackbio\docking\6gh8_atorvastatin and similar compounds\glide-grid_1\glide-grid_1.zip"
-LIGANDFILE   glide-dock_XP_3.maegz
-POSTDOCK_XP_DELE   0.5
-PRECISION   XP
-WRITE_XP_DESC   True
