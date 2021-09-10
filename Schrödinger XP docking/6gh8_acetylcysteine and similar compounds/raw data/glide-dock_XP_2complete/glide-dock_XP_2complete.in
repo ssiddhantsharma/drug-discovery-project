@@ -1,0 +1,6 @@
+CALC_INPUT_RMS   True
+GRIDFILE   "C:\Users\hp\Desktop\Hackbio\docking\6gh8_acetylcysteine and similar compounds\glide-grid_1\glide-grid_1.zip"
+LIGANDFILE   glide-dock_XP_2complete.maegz
+POSTDOCK_XP_DELE   0.5
+PRECISION   XP
+WRITE_XP_DESC   True
