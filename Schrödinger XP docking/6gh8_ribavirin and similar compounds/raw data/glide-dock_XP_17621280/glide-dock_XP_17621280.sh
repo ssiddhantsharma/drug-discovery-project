@@ -1,0 +1,1 @@
+"${SCHRODINGER}/glide" glide-dock_XP_17621280.in -OVERWRITE -adjust -HOST localhost:1 -TMPLAUNCHDIR
