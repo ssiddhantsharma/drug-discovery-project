@@ -1,0 +1,5 @@
+GRIDFILE   "C:\Users\hp\Desktop\Hackbio\6GH8_Ribavirin correct\glide-grid_6gh8\glide-grid_6gh8.zip"
+LIGANDFILE   "C:\Users\hp\Desktop\Hackbio\6GH8_Ribavirin correct\ligprep_2\ligprep_2-out.maegz"
+POSTDOCK_XP_DELE   0.5
+PRECISION   XP
+WRITE_XP_DESC   True
